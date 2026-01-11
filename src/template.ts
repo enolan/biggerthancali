@@ -201,6 +201,7 @@ export function renderComparison(country: CountryData, siteMode: SiteMode): stri
 
   <div class="footer">
     <p>Click any number to view its source. Data from World Bank and US government agencies.</p>
+    <p>Built by <a href="https://echonolan.net">Echo Nolan</a> and Claude.</p>
   </div>
 </body>
 </html>`;
