@@ -1,5 +1,7 @@
 import { CountryData, CALIFORNIA, getAllCountries, getFlagUrl, MetricWithSource, getDisplayName } from "./data";
 
+export type SiteMode = "bigger" | "smaller";
+
 function formatNumber(n: number, decimals = 1): string {
   if (n >= 1000) {
     return n.toLocaleString("en-US", { maximumFractionDigits: 0 });
@@ -90,8 +92,8 @@ const baseStyles = `
     font-weight: 600;
     margin-bottom: 0.5rem;
   }
-  .verdict-text .bigger { color: #16a34a; }
-  .verdict-text .smaller { color: #dc2626; }
+  .verdict-text .correct { color: #16a34a; }
+  .verdict-text .wrong { color: #dc2626; }
   .verdict-detail {
     color: #666;
     font-size: 1.1rem;
@@ -128,18 +130,23 @@ function getVerdict(country: CountryData, ca: CountryData): { isBigger: boolean;
   return { isBigger, popRatio, summary };
 }
 
-export function renderComparison(country: CountryData): string {
+export function renderComparison(country: CountryData, siteMode: SiteMode): string {
   const ca = CALIFORNIA;
   const countryFlag = getFlagUrl(country.code, 80);
   const name = getDisplayName(country.name);
   const verdict = getVerdict(country, ca);
+
+  // Determine if the user's guess (based on domain) was correct
+  const guessedBigger = siteMode === "bigger";
+  const isCorrect = guessedBigger === verdict.isBigger;
+  const siteName = siteMode === "bigger" ? "Bigger Than Cali" : "Smaller Than Cali";
 
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${name} vs California | Bigger Than Cali</title>
+  <title>${name} vs California | ${siteName}</title>
   <meta name="description" content="Compare ${name}'s population, GDP, and area to California">
   <style>${baseStyles}</style>
 </head>
@@ -149,7 +156,7 @@ export function renderComparison(country: CountryData): string {
   <div class="verdict">
     <img src="${countryFlag}" alt="${name} flag" class="verdict-flag">
     <div class="verdict-text">
-      ${name} is <span class="${verdict.isBigger ? 'bigger' : 'smaller'}">${verdict.isBigger ? 'BIGGER' : 'SMALLER'}</span> than California
+      ${name} is <span class="${isCorrect ? 'correct' : 'wrong'}">${verdict.isBigger ? 'BIGGER' : 'SMALLER'}</span> than California
     </div>
     <div class="verdict-detail">${verdict.summary}</div>
   </div>
@@ -199,10 +206,15 @@ export function renderComparison(country: CountryData): string {
 </html>`;
 }
 
-export function renderHome(): string {
+export function renderHome(siteMode: SiteMode): string {
   const countries = getAllCountries().sort((a, b) =>
     a.name.localeCompare(b.name)
   );
+
+  const siteName = siteMode === "bigger" ? "Bigger Than Cali" : "Smaller Than Cali";
+  const siteDescription = siteMode === "bigger"
+    ? "Find countries bigger than California"
+    : "Find countries smaller than California";
 
   const countryLinks = countries
     .map(
@@ -218,8 +230,8 @@ export function renderHome(): string {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bigger Than Cali | Compare Countries to California</title>
-  <meta name="description" content="Compare any country's population, GDP, and land area to California">
+  <title>${siteName} | Compare Countries to California</title>
+  <meta name="description" content="${siteDescription}">
   <style>
     ${baseStyles}
     .search-box {
@@ -259,8 +271,8 @@ export function renderHome(): string {
   </style>
 </head>
 <body>
-  <h1>Bigger Than Cali</h1>
-  <p class="subtitle">Compare any country to California's population, GDP, and land area</p>
+  <h1>${siteName}</h1>
+  <p class="subtitle">${siteDescription}</p>
 
   <input type="text" class="search-box" placeholder="Search for a country..." id="search" autocomplete="off">
 
