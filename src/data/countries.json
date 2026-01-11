@@ -1,0 +1,5912 @@
+{
+  "generated": "2026-01-11T01:07:25.577Z",
+  "california": {
+    "name": "California",
+    "code": "US-CA",
+    "population": {
+      "value": 39.4,
+      "year": 2024,
+      "source": "US Census Bureau",
+      "url": "https://www.census.gov/quickfacts/CA"
+    },
+    "gdp": {
+      "value": 4048,
+      "year": 2024,
+      "source": "FRED (Federal Reserve Economic Data)",
+      "url": "https://fred.stlouisfed.org/series/CANGSP"
+    },
+    "gdpPerCapita": {
+      "value": 102660,
+      "year": 2024,
+      "source": "FRED / Census Bureau (calculated)",
+      "url": "https://fred.stlouisfed.org/series/CANGSP"
+    },
+    "area": {
+      "value": 423970,
+      "source": "US Census Bureau",
+      "url": "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html"
+    }
+  },
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "population": {
+        "value": 42.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF"
+      },
+      "gdp": {
+        "value": 17,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AF"
+      },
+      "gdpPerCapita": {
+        "value": 414,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AF"
+      },
+      "area": {
+        "value": 652230,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AF"
+      }
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "population": {
+        "value": 2.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AL"
+      },
+      "gdp": {
+        "value": 27,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AL"
+      },
+      "gdpPerCapita": {
+        "value": 11378,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AL"
+      },
+      "area": {
+        "value": 27400,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AL"
+      }
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "population": {
+        "value": 46.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DZ"
+      },
+      "gdp": {
+        "value": 269,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DZ"
+      },
+      "gdpPerCapita": {
+        "value": 5753,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DZ"
+      },
+      "area": {
+        "value": 2381740,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DZ"
+      }
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AS"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AS"
+      },
+      "gdpPerCapita": {
+        "value": 18017,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AS"
+      },
+      "area": {
+        "value": 200,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AS"
+      }
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AD"
+      },
+      "gdpPerCapita": {
+        "value": 49304,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AD"
+      },
+      "area": {
+        "value": 470,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AD"
+      }
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "population": {
+        "value": 37.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AO"
+      },
+      "gdp": {
+        "value": 101,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AO"
+      },
+      "gdpPerCapita": {
+        "value": 2666,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AO"
+      },
+      "area": {
+        "value": 1246700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AO"
+      }
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AG"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AG"
+      },
+      "gdpPerCapita": {
+        "value": 23542,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AG"
+      },
+      "area": {
+        "value": 440,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AG"
+      }
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "population": {
+        "value": 45.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AR"
+      },
+      "gdp": {
+        "value": 638,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AR"
+      },
+      "gdpPerCapita": {
+        "value": 13970,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AR"
+      },
+      "area": {
+        "value": 2736690,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AR"
+      }
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "population": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AM"
+      },
+      "gdp": {
+        "value": 26,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AM"
+      },
+      "gdpPerCapita": {
+        "value": 8556,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AM"
+      },
+      "area": {
+        "value": 28199,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AM"
+      }
+    },
+    {
+      "name": "Aruba",
+      "code": "AW",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AW"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AW"
+      },
+      "gdpPerCapita": {
+        "value": 39499,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AW"
+      },
+      "area": {
+        "value": 180,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AW"
+      }
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "population": {
+        "value": 27.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AU"
+      },
+      "gdp": {
+        "value": 1757,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AU"
+      },
+      "gdpPerCapita": {
+        "value": 64604,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AU"
+      },
+      "area": {
+        "value": 7692020,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AU"
+      }
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "population": {
+        "value": 9.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AT"
+      },
+      "gdp": {
+        "value": 535,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AT"
+      },
+      "gdpPerCapita": {
+        "value": 58269,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT"
+      },
+      "area": {
+        "value": 82520,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AT"
+      }
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "population": {
+        "value": 10.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AZ"
+      },
+      "gdp": {
+        "value": 74,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AZ"
+      },
+      "gdpPerCapita": {
+        "value": 7284,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AZ"
+      },
+      "area": {
+        "value": 82650,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AZ"
+      }
+    },
+    {
+      "name": "Bahamas, The",
+      "code": "BS",
+      "population": {
+        "value": 0.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BS"
+      },
+      "gdp": {
+        "value": 16,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BS"
+      },
+      "gdpPerCapita": {
+        "value": 39455,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BS"
+      },
+      "area": {
+        "value": 10010,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BS"
+      }
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "population": {
+        "value": 1.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BH"
+      },
+      "gdp": {
+        "value": 47,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BH"
+      },
+      "gdpPerCapita": {
+        "value": 29654,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BH"
+      },
+      "area": {
+        "value": 800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BH"
+      }
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "population": {
+        "value": 173.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD"
+      },
+      "gdp": {
+        "value": 450,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BD"
+      },
+      "gdpPerCapita": {
+        "value": 2593,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BD"
+      },
+      "area": {
+        "value": 129980,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BD"
+      }
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "population": {
+        "value": 0.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BB"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BB"
+      },
+      "gdpPerCapita": {
+        "value": 26545,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BB"
+      },
+      "area": {
+        "value": 430,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BB"
+      }
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "population": {
+        "value": 9.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BY"
+      },
+      "gdp": {
+        "value": 76,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BY"
+      },
+      "gdpPerCapita": {
+        "value": 8318,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BY"
+      },
+      "area": {
+        "value": 202983,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BY"
+      }
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "population": {
+        "value": 11.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BE"
+      },
+      "gdp": {
+        "value": 671,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BE"
+      },
+      "gdpPerCapita": {
+        "value": 56615,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BE"
+      },
+      "area": {
+        "value": 30494,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BE"
+      }
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "population": {
+        "value": 0.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BZ"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BZ"
+      },
+      "gdpPerCapita": {
+        "value": 7681,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BZ"
+      },
+      "area": {
+        "value": 22810,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BZ"
+      }
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "population": {
+        "value": 14.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BJ"
+      },
+      "gdp": {
+        "value": 21,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BJ"
+      },
+      "gdpPerCapita": {
+        "value": 1485,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BJ"
+      },
+      "area": {
+        "value": 112760,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BJ"
+      }
+    },
+    {
+      "name": "Bermuda",
+      "code": "BM",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BM"
+      },
+      "gdp": {
+        "value": 9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BM"
+      },
+      "gdpPerCapita": {
+        "value": 142855,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BM"
+      },
+      "area": {
+        "value": 54,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BM"
+      }
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "population": {
+        "value": 0.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BT"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BT"
+      },
+      "gdpPerCapita": {
+        "value": 3831,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BT"
+      },
+      "area": {
+        "value": 38140,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BT"
+      }
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "population": {
+        "value": 12.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BO"
+      },
+      "gdp": {
+        "value": 55,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BO"
+      },
+      "gdpPerCapita": {
+        "value": 4421,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BO"
+      },
+      "area": {
+        "value": 1083300,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BO"
+      }
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "population": {
+        "value": 3.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BA"
+      },
+      "gdp": {
+        "value": 30,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BA"
+      },
+      "gdpPerCapita": {
+        "value": 9359,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BA"
+      },
+      "area": {
+        "value": 51200,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BA"
+      }
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "population": {
+        "value": 2.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BW"
+      },
+      "gdp": {
+        "value": 19,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BW"
+      },
+      "gdpPerCapita": {
+        "value": 7696,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BW"
+      },
+      "area": {
+        "value": 566730,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BW"
+      }
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "population": {
+        "value": 212,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR"
+      },
+      "gdp": {
+        "value": 2186,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BR"
+      },
+      "gdpPerCapita": {
+        "value": 10311,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BR"
+      },
+      "area": {
+        "value": 8358140,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BR"
+      }
+    },
+    {
+      "name": "Brunei Darussalam",
+      "code": "BN",
+      "population": {
+        "value": 0.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BN"
+      },
+      "gdp": {
+        "value": 15,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BN"
+      },
+      "gdpPerCapita": {
+        "value": 33153,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BN"
+      },
+      "area": {
+        "value": 5270,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BN"
+      }
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "population": {
+        "value": 6.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BG"
+      },
+      "gdp": {
+        "value": 113,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BG"
+      },
+      "gdpPerCapita": {
+        "value": 17596,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BG"
+      },
+      "area": {
+        "value": 108560,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BG"
+      }
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "population": {
+        "value": 23.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BF"
+      },
+      "gdp": {
+        "value": 23,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BF"
+      },
+      "gdpPerCapita": {
+        "value": 982,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BF"
+      },
+      "area": {
+        "value": 273600,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BF"
+      }
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "population": {
+        "value": 14,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BI"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BI"
+      },
+      "gdpPerCapita": {
+        "value": 219,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BI"
+      },
+      "area": {
+        "value": 25680,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BI"
+      }
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "population": {
+        "value": 0.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CV"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CV"
+      },
+      "gdpPerCapita": {
+        "value": 5192,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CV"
+      },
+      "area": {
+        "value": 4030,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CV"
+      }
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "population": {
+        "value": 17.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KH"
+      },
+      "gdp": {
+        "value": 46,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KH"
+      },
+      "gdpPerCapita": {
+        "value": 2628,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KH"
+      },
+      "area": {
+        "value": 176520,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KH"
+      }
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "population": {
+        "value": 29.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CM"
+      },
+      "gdp": {
+        "value": 53,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CM"
+      },
+      "gdpPerCapita": {
+        "value": 1830,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CM"
+      },
+      "area": {
+        "value": 472710,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CM"
+      }
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "population": {
+        "value": 41.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CA"
+      },
+      "gdp": {
+        "value": 2244,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CA"
+      },
+      "gdpPerCapita": {
+        "value": 54340,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CA"
+      },
+      "area": {
+        "value": 8788700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CA"
+      }
+    },
+    {
+      "name": "Cayman Islands",
+      "code": "KY",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KY"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KY"
+      },
+      "gdpPerCapita": {
+        "value": 99144,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KY"
+      },
+      "area": {
+        "value": 240,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KY"
+      }
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "population": {
+        "value": 5.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CF"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CF"
+      },
+      "gdpPerCapita": {
+        "value": 516,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CF"
+      },
+      "area": {
+        "value": 622980,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CF"
+      }
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "population": {
+        "value": 20.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TD"
+      },
+      "gdp": {
+        "value": 20,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TD"
+      },
+      "gdpPerCapita": {
+        "value": 962,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TD"
+      },
+      "area": {
+        "value": 1259200,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TD"
+      }
+    },
+    {
+      "name": "Channel Islands",
+      "code": "JG",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JG"
+      },
+      "gdp": {
+        "value": 13,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JG"
+      },
+      "gdpPerCapita": {
+        "value": 74586,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JG"
+      },
+      "area": {
+        "value": 198,
+        "year": 2021,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JG"
+      }
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "population": {
+        "value": 19.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CL"
+      },
+      "gdp": {
+        "value": 330,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CL"
+      },
+      "gdpPerCapita": {
+        "value": 16710,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CL"
+      },
+      "area": {
+        "value": 742832,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CL"
+      }
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "population": {
+        "value": 1409,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN"
+      },
+      "gdp": {
+        "value": 18744,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CN"
+      },
+      "gdpPerCapita": {
+        "value": 13303,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CN"
+      },
+      "area": {
+        "value": 9388210,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CN"
+      }
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "population": {
+        "value": 52.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CO"
+      },
+      "gdp": {
+        "value": 419,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CO"
+      },
+      "gdpPerCapita": {
+        "value": 7919,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CO"
+      },
+      "area": {
+        "value": 1109500,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CO"
+      }
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "population": {
+        "value": 0.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KM"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KM"
+      },
+      "gdpPerCapita": {
+        "value": 1663,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KM"
+      },
+      "area": {
+        "value": 1861,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KM"
+      }
+    },
+    {
+      "name": "Congo, Dem. Rep.",
+      "code": "CD",
+      "population": {
+        "value": 109.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"
+      },
+      "gdp": {
+        "value": 71,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CD"
+      },
+      "gdpPerCapita": {
+        "value": 649,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CD"
+      },
+      "area": {
+        "value": 2267050,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CD"
+      }
+    },
+    {
+      "name": "Congo, Rep.",
+      "code": "CG",
+      "population": {
+        "value": 6.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CG"
+      },
+      "gdp": {
+        "value": 16,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CG"
+      },
+      "gdpPerCapita": {
+        "value": 2482,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CG"
+      },
+      "area": {
+        "value": 341500,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CG"
+      }
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "population": {
+        "value": 5.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CR"
+      },
+      "gdp": {
+        "value": 95,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CR"
+      },
+      "gdpPerCapita": {
+        "value": 18587,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CR"
+      },
+      "area": {
+        "value": 51060,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CR"
+      }
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "code": "CI",
+      "population": {
+        "value": 31.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CI"
+      },
+      "gdp": {
+        "value": 87,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CI"
+      },
+      "gdpPerCapita": {
+        "value": 2728,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CI"
+      },
+      "area": {
+        "value": 318000,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CI"
+      }
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "population": {
+        "value": 3.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HR"
+      },
+      "gdp": {
+        "value": 93,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HR"
+      },
+      "gdpPerCapita": {
+        "value": 24050,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HR"
+      },
+      "area": {
+        "value": 55960,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HR"
+      }
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "population": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CU"
+      },
+      "gdp": {
+        "value": 107,
+        "year": 2020,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CU"
+      },
+      "gdpPerCapita": {
+        "value": 9605,
+        "year": 2020,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CU"
+      },
+      "area": {
+        "value": 103800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CU"
+      }
+    },
+    {
+      "name": "Curacao",
+      "code": "CW",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CW"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CW"
+      },
+      "gdpPerCapita": {
+        "value": 22833,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CW"
+      },
+      "area": {
+        "value": 444,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CW"
+      }
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "population": {
+        "value": 1.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"
+      },
+      "gdp": {
+        "value": 38,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CY"
+      },
+      "gdpPerCapita": {
+        "value": 38674,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CY"
+      },
+      "area": {
+        "value": 9240,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CY"
+      }
+    },
+    {
+      "name": "Czechia",
+      "code": "CZ",
+      "population": {
+        "value": 10.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CZ"
+      },
+      "gdp": {
+        "value": 347,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CZ"
+      },
+      "gdpPerCapita": {
+        "value": 31823,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CZ"
+      },
+      "area": {
+        "value": 77167,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CZ"
+      }
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "population": {
+        "value": 6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK"
+      },
+      "gdp": {
+        "value": 425,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DK"
+      },
+      "gdpPerCapita": {
+        "value": 71026,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DK"
+      },
+      "area": {
+        "value": 40000,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DK"
+      }
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "population": {
+        "value": 1.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DJ"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DJ"
+      },
+      "gdpPerCapita": {
+        "value": 3553,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DJ"
+      },
+      "area": {
+        "value": 23180,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DJ"
+      }
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DM"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DM"
+      },
+      "gdpPerCapita": {
+        "value": 10405,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DM"
+      },
+      "area": {
+        "value": 750,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DM"
+      }
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "population": {
+        "value": 11.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"
+      },
+      "gdp": {
+        "value": 124,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DO"
+      },
+      "gdpPerCapita": {
+        "value": 10876,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DO"
+      },
+      "area": {
+        "value": 48198,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DO"
+      }
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "population": {
+        "value": 18.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EC"
+      },
+      "gdp": {
+        "value": 125,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EC"
+      },
+      "gdpPerCapita": {
+        "value": 6875,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EC"
+      },
+      "area": {
+        "value": 248360,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EC"
+      }
+    },
+    {
+      "name": "Egypt, Arab Rep.",
+      "code": "EG",
+      "population": {
+        "value": 116.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EG"
+      },
+      "gdp": {
+        "value": 389,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EG"
+      },
+      "gdpPerCapita": {
+        "value": 3338,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EG"
+      },
+      "area": {
+        "value": 995450,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EG"
+      }
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "population": {
+        "value": 6.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SV"
+      },
+      "gdp": {
+        "value": 35,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SV"
+      },
+      "gdpPerCapita": {
+        "value": 5580,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SV"
+      },
+      "area": {
+        "value": 20720,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SV"
+      }
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "population": {
+        "value": 1.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GQ"
+      },
+      "gdp": {
+        "value": 13,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GQ"
+      },
+      "gdpPerCapita": {
+        "value": 6745,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GQ"
+      },
+      "area": {
+        "value": 28050,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GQ"
+      }
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "population": {
+        "value": 1.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EE"
+      },
+      "gdp": {
+        "value": 43,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=EE"
+      },
+      "gdpPerCapita": {
+        "value": 31428,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EE"
+      },
+      "area": {
+        "value": 42730,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EE"
+      }
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "population": {
+        "value": 1.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SZ"
+      },
+      "gdp": {
+        "value": 5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SZ"
+      },
+      "gdpPerCapita": {
+        "value": 3910,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SZ"
+      },
+      "area": {
+        "value": 17200,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SZ"
+      }
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "population": {
+        "value": 132.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ET"
+      },
+      "gdp": {
+        "value": 150,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ET"
+      },
+      "gdpPerCapita": {
+        "value": 1134,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ET"
+      },
+      "area": {
+        "value": 1128499,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ET"
+      }
+    },
+    {
+      "name": "Faroe Islands",
+      "code": "FO",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FO"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FO"
+      },
+      "gdpPerCapita": {
+        "value": 74120,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FO"
+      },
+      "area": {
+        "value": 1370,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FO"
+      }
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "population": {
+        "value": 0.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FJ"
+      },
+      "gdp": {
+        "value": 6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FJ"
+      },
+      "gdpPerCapita": {
+        "value": 6426,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FJ"
+      },
+      "area": {
+        "value": 18270,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FJ"
+      }
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "population": {
+        "value": 5.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FI"
+      },
+      "gdp": {
+        "value": 299,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FI"
+      },
+      "gdpPerCapita": {
+        "value": 53150,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FI"
+      },
+      "area": {
+        "value": 303960,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FI"
+      }
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "population": {
+        "value": 68.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FR"
+      },
+      "gdp": {
+        "value": 3160,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FR"
+      },
+      "gdpPerCapita": {
+        "value": 46103,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FR"
+      },
+      "area": {
+        "value": 538950,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FR"
+      }
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "population": {
+        "value": 0.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PF"
+      },
+      "gdp": {
+        "value": 6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PF"
+      },
+      "gdpPerCapita": {
+        "value": 22440,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PF"
+      },
+      "area": {
+        "value": 3471,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PF"
+      }
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "population": {
+        "value": 2.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GA"
+      },
+      "gdp": {
+        "value": 21,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GA"
+      },
+      "gdpPerCapita": {
+        "value": 8230,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GA"
+      },
+      "area": {
+        "value": 257670,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GA"
+      }
+    },
+    {
+      "name": "Gambia, The",
+      "code": "GM",
+      "population": {
+        "value": 2.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GM"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GM"
+      },
+      "gdpPerCapita": {
+        "value": 871,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GM"
+      },
+      "area": {
+        "value": 10120,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GM"
+      }
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "population": {
+        "value": 3.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GE"
+      },
+      "gdp": {
+        "value": 34,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GE"
+      },
+      "gdpPerCapita": {
+        "value": 9241,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GE"
+      },
+      "area": {
+        "value": 69490,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GE"
+      }
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "population": {
+        "value": 83.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DE"
+      },
+      "gdp": {
+        "value": 4686,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=DE"
+      },
+      "gdpPerCapita": {
+        "value": 56104,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DE"
+      },
+      "area": {
+        "value": 349430,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DE"
+      }
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "population": {
+        "value": 34.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GH"
+      },
+      "gdp": {
+        "value": 82,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GH"
+      },
+      "gdpPerCapita": {
+        "value": 2391,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GH"
+      },
+      "area": {
+        "value": 227533,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GH"
+      }
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "population": {
+        "value": 10.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GR"
+      },
+      "gdp": {
+        "value": 256,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GR"
+      },
+      "gdpPerCapita": {
+        "value": 24626,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GR"
+      },
+      "area": {
+        "value": 128900,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GR"
+      }
+    },
+    {
+      "name": "Greenland",
+      "code": "GL",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GL"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GL"
+      },
+      "gdpPerCapita": {
+        "value": 58499,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GL"
+      },
+      "area": {
+        "value": 410450,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GL"
+      }
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GD"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GD"
+      },
+      "gdpPerCapita": {
+        "value": 11705,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GD"
+      },
+      "area": {
+        "value": 340,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GD"
+      }
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GU"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GU"
+      },
+      "gdpPerCapita": {
+        "value": 41833,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GU"
+      },
+      "area": {
+        "value": 540,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GU"
+      }
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "population": {
+        "value": 18.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GT"
+      },
+      "gdp": {
+        "value": 113,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GT"
+      },
+      "gdpPerCapita": {
+        "value": 6150,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GT"
+      },
+      "area": {
+        "value": 107160,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GT"
+      }
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "population": {
+        "value": 14.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GN"
+      },
+      "gdp": {
+        "value": 25,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GN"
+      },
+      "gdpPerCapita": {
+        "value": 1695,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GN"
+      },
+      "area": {
+        "value": 245720,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GN"
+      }
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "population": {
+        "value": 2.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GW"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GW"
+      },
+      "gdpPerCapita": {
+        "value": 1008,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GW"
+      },
+      "area": {
+        "value": 28120,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GW"
+      }
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "population": {
+        "value": 0.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GY"
+      },
+      "gdp": {
+        "value": 25,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GY"
+      },
+      "gdpPerCapita": {
+        "value": 29675,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GY"
+      },
+      "area": {
+        "value": 211140,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GY"
+      }
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "population": {
+        "value": 11.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HT"
+      },
+      "gdp": {
+        "value": 25,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HT"
+      },
+      "gdpPerCapita": {
+        "value": 2143,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HT"
+      },
+      "area": {
+        "value": 27560,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HT"
+      }
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "population": {
+        "value": 10.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HN"
+      },
+      "gdp": {
+        "value": 37,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HN"
+      },
+      "gdpPerCapita": {
+        "value": 3426,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HN"
+      },
+      "area": {
+        "value": 111890,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HN"
+      }
+    },
+    {
+      "name": "Hong Kong SAR, China",
+      "code": "HK",
+      "population": {
+        "value": 7.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HK"
+      },
+      "gdp": {
+        "value": 407,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HK"
+      },
+      "gdpPerCapita": {
+        "value": 54075,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HK"
+      },
+      "area": {
+        "value": 1050,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HK"
+      }
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "population": {
+        "value": 9.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HU"
+      },
+      "gdp": {
+        "value": 223,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HU"
+      },
+      "gdpPerCapita": {
+        "value": 23292,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HU"
+      },
+      "area": {
+        "value": 91260,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HU"
+      }
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "population": {
+        "value": 0.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IS"
+      },
+      "gdp": {
+        "value": 33,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IS"
+      },
+      "gdpPerCapita": {
+        "value": 86041,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IS"
+      },
+      "area": {
+        "value": 100830,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IS"
+      }
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "population": {
+        "value": 1450.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN"
+      },
+      "gdp": {
+        "value": 3910,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN"
+      },
+      "gdpPerCapita": {
+        "value": 2695,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN"
+      },
+      "area": {
+        "value": 2973190,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IN"
+      }
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "population": {
+        "value": 283.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ID"
+      },
+      "gdp": {
+        "value": 1396,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ID"
+      },
+      "gdpPerCapita": {
+        "value": 4925,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ID"
+      },
+      "area": {
+        "value": 1892555,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ID"
+      }
+    },
+    {
+      "name": "Iran, Islamic Rep.",
+      "code": "IR",
+      "population": {
+        "value": 91.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IR"
+      },
+      "gdp": {
+        "value": 475,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IR"
+      },
+      "gdpPerCapita": {
+        "value": 5190,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IR"
+      },
+      "area": {
+        "value": 1622500,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IR"
+      }
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "population": {
+        "value": 46,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IQ"
+      },
+      "gdp": {
+        "value": 280,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IQ"
+      },
+      "gdpPerCapita": {
+        "value": 6074,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IQ"
+      },
+      "area": {
+        "value": 434130,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IQ"
+      }
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "population": {
+        "value": 5.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IE"
+      },
+      "gdp": {
+        "value": 609,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IE"
+      },
+      "gdpPerCapita": {
+        "value": 112895,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IE"
+      },
+      "area": {
+        "value": 68890,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IE"
+      }
+    },
+    {
+      "name": "Isle of Man",
+      "code": "IM",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IM"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IM"
+      },
+      "gdpPerCapita": {
+        "value": 88329,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IM"
+      },
+      "area": {
+        "value": 570,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IM"
+      }
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "population": {
+        "value": 10,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IL"
+      },
+      "gdp": {
+        "value": 540,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IL"
+      },
+      "gdpPerCapita": {
+        "value": 54177,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IL"
+      },
+      "area": {
+        "value": 21640,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IL"
+      }
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "population": {
+        "value": 59,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IT"
+      },
+      "gdp": {
+        "value": 2381,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IT"
+      },
+      "gdpPerCapita": {
+        "value": 40385,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IT"
+      },
+      "area": {
+        "value": 295720,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IT"
+      }
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "population": {
+        "value": 2.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JM"
+      },
+      "gdp": {
+        "value": 22,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JM"
+      },
+      "gdpPerCapita": {
+        "value": 7754,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JM"
+      },
+      "area": {
+        "value": 10830,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JM"
+      }
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "population": {
+        "value": 124,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JP"
+      },
+      "gdp": {
+        "value": 4028,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JP"
+      },
+      "gdpPerCapita": {
+        "value": 32487,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JP"
+      },
+      "area": {
+        "value": 364569,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JP"
+      }
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "population": {
+        "value": 11.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JO"
+      },
+      "gdp": {
+        "value": 53,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JO"
+      },
+      "gdpPerCapita": {
+        "value": 4618,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JO"
+      },
+      "area": {
+        "value": 88794,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JO"
+      }
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "population": {
+        "value": 20.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KZ"
+      },
+      "gdp": {
+        "value": 291,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KZ"
+      },
+      "gdpPerCapita": {
+        "value": 14155,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KZ"
+      },
+      "area": {
+        "value": 2699700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KZ"
+      }
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "population": {
+        "value": 56.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KE"
+      },
+      "gdp": {
+        "value": 120,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KE"
+      },
+      "gdpPerCapita": {
+        "value": 2132,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KE"
+      },
+      "area": {
+        "value": 580876,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KE"
+      }
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KI"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KI"
+      },
+      "gdpPerCapita": {
+        "value": 2289,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KI"
+      },
+      "area": {
+        "value": 810,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KI"
+      }
+    },
+    {
+      "name": "Korea, Rep.",
+      "code": "KR",
+      "population": {
+        "value": 51.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KR"
+      },
+      "gdp": {
+        "value": 1875,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR"
+      },
+      "gdpPerCapita": {
+        "value": 36239,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KR"
+      },
+      "area": {
+        "value": 97600,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KR"
+      }
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "population": {
+        "value": 4.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KW"
+      },
+      "gdp": {
+        "value": 160,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KW"
+      },
+      "gdpPerCapita": {
+        "value": 32718,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KW"
+      },
+      "area": {
+        "value": 17820,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KW"
+      }
+    },
+    {
+      "name": "Kyrgyz Republic",
+      "code": "KG",
+      "population": {
+        "value": 7.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KG"
+      },
+      "gdp": {
+        "value": 17,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KG"
+      },
+      "gdpPerCapita": {
+        "value": 2420,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KG"
+      },
+      "area": {
+        "value": 191800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KG"
+      }
+    },
+    {
+      "name": "Lao PDR",
+      "code": "LA",
+      "population": {
+        "value": 7.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA"
+      },
+      "gdp": {
+        "value": 17,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LA"
+      },
+      "gdpPerCapita": {
+        "value": 2124,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LA"
+      },
+      "area": {
+        "value": 230800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LA"
+      }
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "population": {
+        "value": 1.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LV"
+      },
+      "gdp": {
+        "value": 44,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LV"
+      },
+      "gdpPerCapita": {
+        "value": 23409,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LV"
+      },
+      "area": {
+        "value": 62230,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LV"
+      }
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "population": {
+        "value": 5.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB"
+      },
+      "gdp": {
+        "value": 20,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LB"
+      },
+      "gdpPerCapita": {
+        "value": 3478,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LB"
+      },
+      "area": {
+        "value": 10230,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LB"
+      }
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "population": {
+        "value": 2.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LS"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LS"
+      },
+      "gdpPerCapita": {
+        "value": 972,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LS"
+      },
+      "area": {
+        "value": 30360,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LS"
+      }
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "population": {
+        "value": 5.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LR"
+      },
+      "gdp": {
+        "value": 5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LR"
+      },
+      "gdpPerCapita": {
+        "value": 851,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LR"
+      },
+      "area": {
+        "value": 96320,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LR"
+      }
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "population": {
+        "value": 7.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LY"
+      },
+      "gdp": {
+        "value": 48,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LY"
+      },
+      "gdpPerCapita": {
+        "value": 6569,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LY"
+      },
+      "area": {
+        "value": 1759540,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LY"
+      }
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LI"
+      },
+      "gdp": {
+        "value": 8,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LI"
+      },
+      "gdpPerCapita": {
+        "value": 206781,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LI"
+      },
+      "area": {
+        "value": 160,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LI"
+      }
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "population": {
+        "value": 2.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LT"
+      },
+      "gdp": {
+        "value": 85,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LT"
+      },
+      "gdpPerCapita": {
+        "value": 29384,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LT"
+      },
+      "area": {
+        "value": 62600,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LT"
+      }
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "population": {
+        "value": 0.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LU"
+      },
+      "gdp": {
+        "value": 93,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LU"
+      },
+      "gdpPerCapita": {
+        "value": 137782,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LU"
+      },
+      "area": {
+        "value": 2574,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LU"
+      }
+    },
+    {
+      "name": "Macao SAR, China",
+      "code": "MO",
+      "population": {
+        "value": 0.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MO"
+      },
+      "gdp": {
+        "value": 49,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MO"
+      },
+      "gdpPerCapita": {
+        "value": 72005,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MO"
+      },
+      "area": {
+        "value": 33,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MO"
+      }
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "population": {
+        "value": 32,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MG"
+      },
+      "gdp": {
+        "value": 17,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MG"
+      },
+      "gdpPerCapita": {
+        "value": 545,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MG"
+      },
+      "area": {
+        "value": 581800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MG"
+      }
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "population": {
+        "value": 21.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MW"
+      },
+      "gdp": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MW"
+      },
+      "gdpPerCapita": {
+        "value": 523,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MW"
+      },
+      "area": {
+        "value": 94280,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MW"
+      }
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "population": {
+        "value": 35.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MY"
+      },
+      "gdp": {
+        "value": 422,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY"
+      },
+      "gdpPerCapita": {
+        "value": 11874,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MY"
+      },
+      "area": {
+        "value": 328550,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MY"
+      }
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "population": {
+        "value": 0.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MV"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MV"
+      },
+      "gdpPerCapita": {
+        "value": 13379,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MV"
+      },
+      "area": {
+        "value": 298,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MV"
+      }
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "population": {
+        "value": 24.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ML"
+      },
+      "gdp": {
+        "value": 27,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ML"
+      },
+      "gdpPerCapita": {
+        "value": 1095,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ML"
+      },
+      "area": {
+        "value": 1220190,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ML"
+      }
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "population": {
+        "value": 0.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MT"
+      },
+      "gdp": {
+        "value": 25,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MT"
+      },
+      "gdpPerCapita": {
+        "value": 43899,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MT"
+      },
+      "area": {
+        "value": 320,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MT"
+      }
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MH"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MH"
+      },
+      "gdpPerCapita": {
+        "value": 7726,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MH"
+      },
+      "area": {
+        "value": 180,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MH"
+      }
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "population": {
+        "value": 5.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MR"
+      },
+      "gdp": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MR"
+      },
+      "gdpPerCapita": {
+        "value": 2110,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MR"
+      },
+      "area": {
+        "value": 1030700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MR"
+      }
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "population": {
+        "value": 1.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MU"
+      },
+      "gdp": {
+        "value": 15,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MU"
+      },
+      "gdpPerCapita": {
+        "value": 11991,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MU"
+      },
+      "area": {
+        "value": 1997,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MU"
+      }
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "population": {
+        "value": 130.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MX"
+      },
+      "gdp": {
+        "value": 1856,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MX"
+      },
+      "gdpPerCapita": {
+        "value": 14186,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MX"
+      },
+      "area": {
+        "value": 1943950,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MX"
+      }
+    },
+    {
+      "name": "Micronesia, Fed. Sts.",
+      "code": "FM",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FM"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=FM"
+      },
+      "gdpPerCapita": {
+        "value": 4166,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FM"
+      },
+      "area": {
+        "value": 700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FM"
+      }
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "population": {
+        "value": 2.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MD"
+      },
+      "gdp": {
+        "value": 18,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MD"
+      },
+      "gdpPerCapita": {
+        "value": 7576,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MD"
+      },
+      "area": {
+        "value": 32930,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MD"
+      }
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MC"
+      },
+      "gdp": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MC"
+      },
+      "gdpPerCapita": {
+        "value": 288001,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MC"
+      },
+      "area": {
+        "value": 2,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MC"
+      }
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "population": {
+        "value": 3.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MN"
+      },
+      "gdp": {
+        "value": 24,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MN"
+      },
+      "gdpPerCapita": {
+        "value": 6751,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MN"
+      },
+      "area": {
+        "value": 1558500,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MN"
+      }
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "population": {
+        "value": 0.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ME"
+      },
+      "gdp": {
+        "value": 8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ME"
+      },
+      "gdpPerCapita": {
+        "value": 13263,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ME"
+      },
+      "area": {
+        "value": 13450,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ME"
+      }
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "population": {
+        "value": 38.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MA"
+      },
+      "gdp": {
+        "value": 161,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MA"
+      },
+      "gdpPerCapita": {
+        "value": 4153,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MA"
+      },
+      "area": {
+        "value": 446300,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MA"
+      }
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "population": {
+        "value": 34.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MZ"
+      },
+      "gdp": {
+        "value": 23,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MZ"
+      },
+      "gdpPerCapita": {
+        "value": 657,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MZ"
+      },
+      "area": {
+        "value": 786380,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MZ"
+      }
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "population": {
+        "value": 54.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MM"
+      },
+      "gdp": {
+        "value": 74,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MM"
+      },
+      "gdpPerCapita": {
+        "value": 1359,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MM"
+      },
+      "area": {
+        "value": 652670,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MM"
+      }
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "population": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NA"
+      },
+      "gdp": {
+        "value": 13,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NA"
+      },
+      "gdpPerCapita": {
+        "value": 4413,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NA"
+      },
+      "area": {
+        "value": 823290,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NA"
+      }
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NR"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NR"
+      },
+      "gdpPerCapita": {
+        "value": 13609,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NR"
+      },
+      "area": {
+        "value": 20,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NR"
+      }
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "population": {
+        "value": 29.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NP"
+      },
+      "gdp": {
+        "value": 43,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NP"
+      },
+      "gdpPerCapita": {
+        "value": 1447,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NP"
+      },
+      "area": {
+        "value": 143350,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NP"
+      }
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "population": {
+        "value": 18,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NL"
+      },
+      "gdp": {
+        "value": 1215,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NL"
+      },
+      "gdpPerCapita": {
+        "value": 67520,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NL"
+      },
+      "area": {
+        "value": 33670,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NL"
+      }
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "population": {
+        "value": 0.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NC"
+      },
+      "gdp": {
+        "value": 9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NC"
+      },
+      "gdpPerCapita": {
+        "value": 29213,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NC"
+      },
+      "area": {
+        "value": 18280,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NC"
+      }
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "population": {
+        "value": 5.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NZ"
+      },
+      "gdp": {
+        "value": 260,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NZ"
+      },
+      "gdpPerCapita": {
+        "value": 49205,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NZ"
+      },
+      "area": {
+        "value": 263310,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NZ"
+      }
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "population": {
+        "value": 6.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NI"
+      },
+      "gdp": {
+        "value": 20,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NI"
+      },
+      "gdpPerCapita": {
+        "value": 2848,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NI"
+      },
+      "area": {
+        "value": 120340,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NI"
+      }
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "population": {
+        "value": 27,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NE"
+      },
+      "gdp": {
+        "value": 20,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NE"
+      },
+      "gdpPerCapita": {
+        "value": 735,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NE"
+      },
+      "area": {
+        "value": 1266700,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NE"
+      }
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "population": {
+        "value": 232.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NG"
+      },
+      "gdp": {
+        "value": 252,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NG"
+      },
+      "gdpPerCapita": {
+        "value": 1084,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NG"
+      },
+      "area": {
+        "value": 910770,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NG"
+      }
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "population": {
+        "value": 1.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MK"
+      },
+      "gdp": {
+        "value": 17,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MK"
+      },
+      "gdpPerCapita": {
+        "value": 9292,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MK"
+      },
+      "area": {
+        "value": 25220,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MK"
+      }
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MP"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MP"
+      },
+      "gdpPerCapita": {
+        "value": 23786,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MP"
+      },
+      "area": {
+        "value": 460,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MP"
+      }
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "population": {
+        "value": 5.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO"
+      },
+      "gdp": {
+        "value": 484,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NO"
+      },
+      "gdpPerCapita": {
+        "value": 86785,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NO"
+      },
+      "area": {
+        "value": 364270,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NO"
+      }
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "population": {
+        "value": 5.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=OM"
+      },
+      "gdp": {
+        "value": 107,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=OM"
+      },
+      "gdpPerCapita": {
+        "value": 20285,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=OM"
+      },
+      "area": {
+        "value": 309500,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=OM"
+      }
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "population": {
+        "value": 251.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PK"
+      },
+      "gdp": {
+        "value": 372,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PK"
+      },
+      "gdpPerCapita": {
+        "value": 1479,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PK"
+      },
+      "area": {
+        "value": 770880,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PK"
+      }
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PW"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PW"
+      },
+      "gdpPerCapita": {
+        "value": 15611,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PW"
+      },
+      "area": {
+        "value": 460,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PW"
+      }
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "population": {
+        "value": 4.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PA"
+      },
+      "gdp": {
+        "value": 87,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PA"
+      },
+      "gdpPerCapita": {
+        "value": 19161,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PA"
+      },
+      "area": {
+        "value": 74180,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PA"
+      }
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "population": {
+        "value": 10.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PG"
+      },
+      "gdp": {
+        "value": 32,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PG"
+      },
+      "gdpPerCapita": {
+        "value": 3007,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PG"
+      },
+      "area": {
+        "value": 452860,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PG"
+      }
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "population": {
+        "value": 6.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PY"
+      },
+      "gdp": {
+        "value": 44,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PY"
+      },
+      "gdpPerCapita": {
+        "value": 6416,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PY"
+      },
+      "area": {
+        "value": 396012,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PY"
+      }
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "population": {
+        "value": 34.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PE"
+      },
+      "gdp": {
+        "value": 289,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PE"
+      },
+      "gdpPerCapita": {
+        "value": 8452,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PE"
+      },
+      "area": {
+        "value": 1280000,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PE"
+      }
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "population": {
+        "value": 115.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PH"
+      },
+      "gdp": {
+        "value": 462,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PH"
+      },
+      "gdpPerCapita": {
+        "value": 3985,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PH"
+      },
+      "area": {
+        "value": 298170,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PH"
+      }
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "population": {
+        "value": 36.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL"
+      },
+      "gdp": {
+        "value": 918,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PL"
+      },
+      "gdpPerCapita": {
+        "value": 25104,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PL"
+      },
+      "area": {
+        "value": 306270,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PL"
+      }
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "population": {
+        "value": 10.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PT"
+      },
+      "gdp": {
+        "value": 313,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PT"
+      },
+      "gdpPerCapita": {
+        "value": 29292,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PT"
+      },
+      "area": {
+        "value": 91606,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PT"
+      }
+    },
+    {
+      "name": "Puerto Rico (US)",
+      "code": "PR",
+      "population": {
+        "value": 3.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PR"
+      },
+      "gdp": {
+        "value": 126,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PR"
+      },
+      "gdpPerCapita": {
+        "value": 39344,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PR"
+      },
+      "area": {
+        "value": 8870,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PR"
+      }
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "population": {
+        "value": 2.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=QA"
+      },
+      "gdp": {
+        "value": 219,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=QA"
+      },
+      "gdpPerCapita": {
+        "value": 76689,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=QA"
+      },
+      "area": {
+        "value": 11490,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=QA"
+      }
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "population": {
+        "value": 19.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RO"
+      },
+      "gdp": {
+        "value": 383,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RO"
+      },
+      "gdpPerCapita": {
+        "value": 20080,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RO"
+      },
+      "area": {
+        "value": 230080,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RO"
+      }
+    },
+    {
+      "name": "Russian Federation",
+      "code": "RU",
+      "population": {
+        "value": 143.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU"
+      },
+      "gdp": {
+        "value": 2174,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RU"
+      },
+      "gdpPerCapita": {
+        "value": 14889,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RU"
+      },
+      "area": {
+        "value": 16376870,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RU"
+      }
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "population": {
+        "value": 14.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RW"
+      },
+      "gdp": {
+        "value": 14,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RW"
+      },
+      "gdpPerCapita": {
+        "value": 1000,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RW"
+      },
+      "area": {
+        "value": 24670,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RW"
+      }
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=WS"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=WS"
+      },
+      "gdpPerCapita": {
+        "value": 5393,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=WS"
+      },
+      "area": {
+        "value": 2780,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=WS"
+      }
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SM"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SM"
+      },
+      "gdpPerCapita": {
+        "value": 59880,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SM"
+      },
+      "area": {
+        "value": 60,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SM"
+      }
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ST"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ST"
+      },
+      "gdpPerCapita": {
+        "value": 3491,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ST"
+      },
+      "area": {
+        "value": 960,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ST"
+      }
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "population": {
+        "value": 35.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SA"
+      },
+      "gdp": {
+        "value": 1240,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SA"
+      },
+      "gdpPerCapita": {
+        "value": 35122,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SA"
+      },
+      "area": {
+        "value": 2149690,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SA"
+      }
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "population": {
+        "value": 18.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SN"
+      },
+      "gdp": {
+        "value": 33,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SN"
+      },
+      "gdpPerCapita": {
+        "value": 1773,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SN"
+      },
+      "area": {
+        "value": 192530,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SN"
+      }
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "population": {
+        "value": 6.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RS"
+      },
+      "gdp": {
+        "value": 90,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=RS"
+      },
+      "gdpPerCapita": {
+        "value": 13679,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RS"
+      },
+      "area": {
+        "value": 84090,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RS"
+      }
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SC"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SC"
+      },
+      "gdpPerCapita": {
+        "value": 17859,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SC"
+      },
+      "area": {
+        "value": 460,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SC"
+      }
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "population": {
+        "value": 8.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SL"
+      },
+      "gdp": {
+        "value": 7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SL"
+      },
+      "gdpPerCapita": {
+        "value": 807,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SL"
+      },
+      "area": {
+        "value": 72180,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SL"
+      }
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "population": {
+        "value": 6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SG"
+      },
+      "gdp": {
+        "value": 547,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SG"
+      },
+      "gdpPerCapita": {
+        "value": 90674,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SG"
+      },
+      "area": {
+        "value": 718,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SG"
+      }
+    },
+    {
+      "name": "Sint Maarten (Dutch part)",
+      "code": "SX",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SX"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SX"
+      },
+      "gdpPerCapita": {
+        "value": 41473,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SX"
+      },
+      "area": {
+        "value": 34,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SX"
+      }
+    },
+    {
+      "name": "Slovak Republic",
+      "code": "SK",
+      "population": {
+        "value": 5.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SK"
+      },
+      "gdp": {
+        "value": 141,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SK"
+      },
+      "gdpPerCapita": {
+        "value": 25993,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SK"
+      },
+      "area": {
+        "value": 48080,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SK"
+      }
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "population": {
+        "value": 2.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SI"
+      },
+      "gdp": {
+        "value": 73,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SI"
+      },
+      "gdpPerCapita": {
+        "value": 34301,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SI"
+      },
+      "area": {
+        "value": 20135,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SI"
+      }
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "population": {
+        "value": 0.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SB"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SB"
+      },
+      "gdpPerCapita": {
+        "value": 1934,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SB"
+      },
+      "area": {
+        "value": 27990,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SB"
+      }
+    },
+    {
+      "name": "Somalia, Fed. Rep.",
+      "code": "SO",
+      "population": {
+        "value": 19,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SO"
+      },
+      "gdp": {
+        "value": 12,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SO"
+      },
+      "gdpPerCapita": {
+        "value": 630,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SO"
+      },
+      "area": {
+        "value": 627340,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SO"
+      }
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "population": {
+        "value": 64,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZA"
+      },
+      "gdp": {
+        "value": 401,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZA"
+      },
+      "gdpPerCapita": {
+        "value": 6267,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZA"
+      },
+      "area": {
+        "value": 1213090,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZA"
+      }
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "population": {
+        "value": 48.8,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ES"
+      },
+      "gdp": {
+        "value": 1726,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ES"
+      },
+      "gdpPerCapita": {
+        "value": 35327,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ES"
+      },
+      "area": {
+        "value": 499697,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ES"
+      }
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "population": {
+        "value": 21.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LK"
+      },
+      "gdp": {
+        "value": 99,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LK"
+      },
+      "gdpPerCapita": {
+        "value": 4516,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LK"
+      },
+      "area": {
+        "value": 61860,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LK"
+      }
+    },
+    {
+      "name": "St. Kitts and Nevis",
+      "code": "KN",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KN"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KN"
+      },
+      "gdpPerCapita": {
+        "value": 23961,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KN"
+      },
+      "area": {
+        "value": 260,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KN"
+      }
+    },
+    {
+      "name": "St. Lucia",
+      "code": "LC",
+      "population": {
+        "value": 0.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LC"
+      },
+      "gdp": {
+        "value": 3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=LC"
+      },
+      "gdpPerCapita": {
+        "value": 14182,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LC"
+      },
+      "area": {
+        "value": 610,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LC"
+      }
+    },
+    {
+      "name": "St. Martin (French part)",
+      "code": "MF",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MF"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2021,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MF"
+      },
+      "gdpPerCapita": {
+        "value": 21668,
+        "year": 2021,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MF"
+      },
+      "area": {
+        "value": 50,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MF"
+      }
+    },
+    {
+      "name": "St. Vincent and the Grenadines",
+      "code": "VC",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VC"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VC"
+      },
+      "gdpPerCapita": {
+        "value": 11501,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VC"
+      },
+      "area": {
+        "value": 390,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VC"
+      }
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "population": {
+        "value": 50.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SD"
+      },
+      "gdp": {
+        "value": 50,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SD"
+      },
+      "gdpPerCapita": {
+        "value": 985,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SD"
+      },
+      "area": {
+        "value": 1868000,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SD"
+      }
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "population": {
+        "value": 0.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SR"
+      },
+      "gdp": {
+        "value": 4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SR"
+      },
+      "gdpPerCapita": {
+        "value": 6962,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SR"
+      },
+      "area": {
+        "value": 160508,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SR"
+      }
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "population": {
+        "value": 10.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SE"
+      },
+      "gdp": {
+        "value": 604,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SE"
+      },
+      "gdpPerCapita": {
+        "value": 57117,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SE"
+      },
+      "area": {
+        "value": 407270,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SE"
+      }
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "population": {
+        "value": 9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CH"
+      },
+      "gdp": {
+        "value": 937,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CH"
+      },
+      "gdpPerCapita": {
+        "value": 103998,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CH"
+      },
+      "area": {
+        "value": 39510,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CH"
+      }
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "code": "SY",
+      "population": {
+        "value": 24.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SY"
+      },
+      "gdp": {
+        "value": 24,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SY"
+      },
+      "gdpPerCapita": {
+        "value": 1052,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SY"
+      },
+      "area": {
+        "value": 183630,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SY"
+      }
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "population": {
+        "value": 10.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TJ"
+      },
+      "gdp": {
+        "value": 14,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TJ"
+      },
+      "gdpPerCapita": {
+        "value": 1341,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TJ"
+      },
+      "area": {
+        "value": 138790,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TJ"
+      }
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "population": {
+        "value": 68.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TZ"
+      },
+      "gdp": {
+        "value": 79,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TZ"
+      },
+      "gdpPerCapita": {
+        "value": 1187,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TZ"
+      },
+      "area": {
+        "value": 885800,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TZ"
+      }
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "population": {
+        "value": 71.7,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH"
+      },
+      "gdp": {
+        "value": 527,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TH"
+      },
+      "gdpPerCapita": {
+        "value": 7347,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TH"
+      },
+      "area": {
+        "value": 510890,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TH"
+      }
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "population": {
+        "value": 1.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TL"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TL"
+      },
+      "gdpPerCapita": {
+        "value": 1332,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TL"
+      },
+      "area": {
+        "value": 14870,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TL"
+      }
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "population": {
+        "value": 9.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TG"
+      },
+      "gdp": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TG"
+      },
+      "gdpPerCapita": {
+        "value": 1119,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TG"
+      },
+      "area": {
+        "value": 54390,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TG"
+      }
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TO"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TO"
+      },
+      "gdpPerCapita": {
+        "value": 5652,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TO"
+      },
+      "area": {
+        "value": 720,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TO"
+      }
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "population": {
+        "value": 1.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TT"
+      },
+      "gdp": {
+        "value": 26,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TT"
+      },
+      "gdpPerCapita": {
+        "value": 18733,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TT"
+      },
+      "area": {
+        "value": 5130,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TT"
+      }
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "population": {
+        "value": 12.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TN"
+      },
+      "gdp": {
+        "value": 51,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TN"
+      },
+      "gdpPerCapita": {
+        "value": 4181,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TN"
+      },
+      "area": {
+        "value": 155360,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TN"
+      }
+    },
+    {
+      "name": "Turkiye",
+      "code": "TR",
+      "population": {
+        "value": 85.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TR"
+      },
+      "gdp": {
+        "value": 1359,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TR"
+      },
+      "gdpPerCapita": {
+        "value": 15893,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TR"
+      },
+      "area": {
+        "value": 769630,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TR"
+      }
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "population": {
+        "value": 7.5,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TM"
+      },
+      "gdp": {
+        "value": 51,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TM"
+      },
+      "gdpPerCapita": {
+        "value": 6857,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TM"
+      },
+      "area": {
+        "value": 469930,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TM"
+      }
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TC"
+      },
+      "gdp": {
+        "value": 2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TC"
+      },
+      "gdpPerCapita": {
+        "value": 37507,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TC"
+      },
+      "area": {
+        "value": 950,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TC"
+      }
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "population": {
+        "value": 0,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TV"
+      },
+      "gdp": {
+        "value": 0,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=TV"
+      },
+      "gdpPerCapita": {
+        "value": 6345,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TV"
+      },
+      "area": {
+        "value": 30,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TV"
+      }
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "population": {
+        "value": 50,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UG"
+      },
+      "gdp": {
+        "value": 54,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UG"
+      },
+      "gdpPerCapita": {
+        "value": 1078,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UG"
+      },
+      "area": {
+        "value": 200520,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UG"
+      }
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "population": {
+        "value": 37.9,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UA"
+      },
+      "gdp": {
+        "value": 191,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UA"
+      },
+      "gdpPerCapita": {
+        "value": 5389,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UA"
+      },
+      "area": {
+        "value": 579400,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UA"
+      }
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "population": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AE"
+      },
+      "gdp": {
+        "value": 552,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AE"
+      },
+      "gdpPerCapita": {
+        "value": 50274,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AE"
+      },
+      "area": {
+        "value": 71020,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AE"
+      }
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "population": {
+        "value": 69.2,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GB"
+      },
+      "gdp": {
+        "value": 3686,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GB"
+      },
+      "gdpPerCapita": {
+        "value": 53246,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GB"
+      },
+      "area": {
+        "value": 241930,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GB"
+      }
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "population": {
+        "value": 340.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US"
+      },
+      "gdp": {
+        "value": 28751,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=US"
+      },
+      "gdpPerCapita": {
+        "value": 84534,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=US"
+      },
+      "area": {
+        "value": 9147420,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=US"
+      }
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "population": {
+        "value": 3.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UY"
+      },
+      "gdp": {
+        "value": 81,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UY"
+      },
+      "gdpPerCapita": {
+        "value": 23907,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UY"
+      },
+      "area": {
+        "value": 175020,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UY"
+      }
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "population": {
+        "value": 36.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UZ"
+      },
+      "gdp": {
+        "value": 115,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=UZ"
+      },
+      "gdpPerCapita": {
+        "value": 3162,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UZ"
+      },
+      "area": {
+        "value": 440650,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UZ"
+      }
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "population": {
+        "value": 0.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VU"
+      },
+      "gdp": {
+        "value": 1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VU"
+      },
+      "gdpPerCapita": {
+        "value": 3411,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VU"
+      },
+      "area": {
+        "value": 12190,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VU"
+      }
+    },
+    {
+      "name": "Venezuela, RB",
+      "code": "VE",
+      "population": {
+        "value": 28.4,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VE"
+      },
+      "gdp": {
+        "value": 120,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VE"
+      },
+      "gdpPerCapita": {
+        "value": 4218,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VE"
+      },
+      "area": {
+        "value": 882050,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VE"
+      }
+    },
+    {
+      "name": "Viet Nam",
+      "code": "VN",
+      "population": {
+        "value": 101,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN"
+      },
+      "gdp": {
+        "value": 476,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VN"
+      },
+      "gdpPerCapita": {
+        "value": 4717,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN"
+      },
+      "area": {
+        "value": 313429,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VN"
+      }
+    },
+    {
+      "name": "Virgin Islands (U.S.)",
+      "code": "VI",
+      "population": {
+        "value": 0.1,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VI"
+      },
+      "gdp": {
+        "value": 5,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=VI"
+      },
+      "gdpPerCapita": {
+        "value": 44321,
+        "year": 2022,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VI"
+      },
+      "area": {
+        "value": 350,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VI"
+      }
+    },
+    {
+      "name": "West Bank and Gaza",
+      "code": "PS",
+      "population": {
+        "value": 5.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PS"
+      },
+      "gdp": {
+        "value": 14,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=PS"
+      },
+      "gdpPerCapita": {
+        "value": 2592,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PS"
+      },
+      "area": {
+        "value": 6025,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PS"
+      }
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "population": {
+        "value": 21.3,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZM"
+      },
+      "gdp": {
+        "value": 25,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZM"
+      },
+      "gdpPerCapita": {
+        "value": 1187,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZM"
+      },
+      "area": {
+        "value": 743390,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZM"
+      }
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "population": {
+        "value": 16.6,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZW"
+      },
+      "gdp": {
+        "value": 42,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZW"
+      },
+      "gdpPerCapita": {
+        "value": 2497,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZW"
+      },
+      "area": {
+        "value": 386850,
+        "year": 2023,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZW"
+      }
+    }
+  ]
+}

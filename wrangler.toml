@@ -1,0 +1,8 @@
+name = "biggerthancali"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+# Uncomment to add custom domain
+# routes = [
+#   { pattern = "biggerthancali.io/*", zone_name = "biggerthancali.io" }
+# ]
