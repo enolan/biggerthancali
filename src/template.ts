@@ -212,9 +212,7 @@ export function renderHome(siteMode: SiteMode): string {
   );
 
   const siteName = siteMode === "bigger" ? "Bigger Than Cali" : "Smaller Than Cali";
-  const siteDescription = siteMode === "bigger"
-    ? "Find countries bigger than California"
-    : "Find countries smaller than California";
+  const siteDescription = "Get a quick sense of the size of a country by comparing it to California";
 
   const countryLinks = countries
     .map(
