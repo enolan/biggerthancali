@@ -148,6 +148,7 @@ export function renderComparison(country: CountryData, siteMode: SiteMode): stri
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${name} vs California | ${siteName}</title>
   <meta name="description" content="Compare ${name}'s population, GDP, and area to California">
+  <link rel="icon" type="image/png" href="/favicon.png">
   <style>${baseStyles}</style>
 </head>
 <body>
@@ -231,6 +232,7 @@ export function renderHome(siteMode: SiteMode): string {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${siteName} | Compare Countries to California</title>
   <meta name="description" content="${siteDescription}">
+  <link rel="icon" type="image/png" href="/favicon.png">
   <style>
     ${baseStyles}
     .search-box {
@@ -317,6 +319,7 @@ export function render404(countryName: string): string {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Country Not Found | Bigger Than Cali</title>
+  <link rel="icon" type="image/png" href="/favicon.png">
   <style>${baseStyles}</style>
 </head>
 <body>
