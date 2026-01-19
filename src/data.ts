@@ -83,7 +83,7 @@ addAlias("venezuela", "venezuela, rb");
 addAlias("egypt", "egypt, arab rep.");
 addAlias("laos", "lao pdr");
 addAlias("slovakia", "slovak republic");
-addAlias("czechia", "czech republic");
+addAlias("czech republic", "czechia");
 addAlias("turkey", "turkiye");
 addAlias("uae", "united arab emirates");
 addAlias("hong kong", "hong kong sar, china");
@@ -94,6 +94,46 @@ addAlias("saint lucia", "st. lucia");
 addAlias("saint kitts and nevis", "st. kitts and nevis");
 addAlias("saint vincent and the grenadines", "st. vincent and the grenadines");
 addAlias("micronesia", "micronesia, fed. sts.");
+
+// Yemen
+addAlias("yemen", "yemen, rep.");
+
+// North Korea
+addAlias("north korea", "korea, dem. people's rep.");
+addAlias("dprk", "korea, dem. people's rep.");
+
+// Brunei
+addAlias("brunei", "brunei darussalam");
+
+// Macao
+addAlias("macao", "macao sar, china");
+addAlias("macau", "macao sar, china");
+
+// Palestine
+addAlias("palestine", "west bank and gaza");
+addAlias("palestinian territories", "west bank and gaza");
+
+// US territories
+addAlias("puerto rico", "puerto rico (us)");
+addAlias("us virgin islands", "virgin islands (u.s.)");
+addAlias("usvi", "virgin islands (u.s.)");
+addAlias("bvi", "british virgin islands");
+
+// Somalia
+addAlias("somalia", "somalia, fed. rep.");
+
+// Sint Maarten / St. Martin
+addAlias("sint maarten", "sint maarten (dutch part)");
+addAlias("saint martin", "st. martin (french part)");
+addAlias("st martin", "st. martin (french part)");
+
+// Common short names
+addAlias("bosnia", "bosnia and herzegovina");
+addAlias("trinidad", "trinidad and tobago");
+addAlias("antigua", "antigua and barbuda");
+addAlias("png", "papua new guinea");
+addAlias("sao tome", "sao tome and principe");
+addAlias("car", "central african republic");
 
 export function lookupCountry(name: string): CountryData | undefined {
   return countryMap.get(name.toLowerCase().trim());
@@ -110,6 +150,7 @@ export function getFlagUrl(code: string, size: number = 24): string {
 // Map official World Bank names to common display names
 const displayNames: Record<string, string> = {
   "Hong Kong SAR, China": "Hong Kong",
+  "Macao SAR, China": "Macao",
   "Viet Nam": "Vietnam",
   "Korea, Rep.": "South Korea",
   "Korea, Dem. People's Rep.": "North Korea",
@@ -119,7 +160,6 @@ const displayNames: Record<string, string> = {
   "Syrian Arab Republic": "Syria",
   "Venezuela, RB": "Venezuela",
   "Russian Federation": "Russia",
-  "Czech Republic": "Czechia",
   "Slovak Republic": "Slovakia",
   "Lao PDR": "Laos",
   "Kyrgyz Republic": "Kyrgyzstan",
@@ -132,6 +172,14 @@ const displayNames: Record<string, string> = {
   "St. Lucia": "Saint Lucia",
   "St. Kitts and Nevis": "Saint Kitts and Nevis",
   "St. Vincent and the Grenadines": "Saint Vincent and the Grenadines",
+  "St. Martin (French part)": "Saint Martin",
+  "Sint Maarten (Dutch part)": "Sint Maarten",
+  "Brunei Darussalam": "Brunei",
+  "West Bank and Gaza": "Palestine",
+  "Puerto Rico (US)": "Puerto Rico",
+  "Virgin Islands (U.S.)": "US Virgin Islands",
+  "Somalia, Fed. Rep.": "Somalia",
+  "Sao Tome and Principe": "São Tomé and Príncipe",
 };
 
 export function getDisplayName(officialName: string): string {
