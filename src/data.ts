@@ -11,8 +11,8 @@ export interface CountryData {
   name: string;
   code: string;
   population: MetricWithSource;
-  gdp: MetricWithSource;
-  gdpPerCapita: MetricWithSource;
+  gdp: MetricWithSource | null;
+  gdpPerCapita: MetricWithSource | null;
   area: MetricWithSource;
 }
 

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-11T01:07:25.577Z",
+  "generated": "2026-01-19T23:39:12.075Z",
   "california": {
     "name": "California",
     "code": "US-CA",
@@ -51,9 +51,8 @@
       },
       "area": {
         "value": 652230,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AF"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/afghanistan/"
       }
     },
     {
@@ -78,10 +77,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AL"
       },
       "area": {
-        "value": 27400,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AL"
+        "value": 27398,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/albania/"
       }
     },
     {
@@ -107,9 +105,8 @@
       },
       "area": {
         "value": 2381740,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DZ"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/algeria/"
       }
     },
     {
@@ -134,10 +131,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AS"
       },
       "area": {
-        "value": 200,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AS"
+        "value": 224,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/american-samoa/"
       }
     },
     {
@@ -162,10 +158,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AD"
       },
       "area": {
-        "value": 470,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AD"
+        "value": 468,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/andorra/"
       }
     },
     {
@@ -191,9 +186,8 @@
       },
       "area": {
         "value": 1246700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AO"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/angola/"
       }
     },
     {
@@ -218,10 +212,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AG"
       },
       "area": {
-        "value": 440,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AG"
+        "value": 443,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/"
       }
     },
     {
@@ -247,9 +240,8 @@
       },
       "area": {
         "value": 2736690,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AR"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/argentina/"
       }
     },
     {
@@ -274,10 +266,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AM"
       },
       "area": {
-        "value": 28199,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AM"
+        "value": 28203,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/armenia/"
       }
     },
     {
@@ -303,9 +294,8 @@
       },
       "area": {
         "value": 180,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AW"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/aruba/"
       }
     },
     {
@@ -330,10 +320,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AU"
       },
       "area": {
-        "value": 7692020,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AU"
+        "value": 7682300,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/australia/"
       }
     },
     {
@@ -358,10 +347,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT"
       },
       "area": {
-        "value": 82520,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AT"
+        "value": 82445,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/austria/"
       }
     },
     {
@@ -386,10 +374,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AZ"
       },
       "area": {
-        "value": 82650,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AZ"
+        "value": 82629,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/azerbaijan/"
       }
     },
     {
@@ -415,9 +402,8 @@
       },
       "area": {
         "value": 10010,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BS"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/the-bahamas/"
       }
     },
     {
@@ -442,10 +428,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BH"
       },
       "area": {
-        "value": 800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BH"
+        "value": 760,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bahrain/"
       }
     },
     {
@@ -470,10 +455,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BD"
       },
       "area": {
-        "value": 129980,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BD"
+        "value": 130170,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bangladesh/"
       }
     },
     {
@@ -499,9 +483,8 @@
       },
       "area": {
         "value": 430,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BB"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/barbados/"
       }
     },
     {
@@ -526,10 +509,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BY"
       },
       "area": {
-        "value": 202983,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BY"
+        "value": 202900,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/belarus/"
       }
     },
     {
@@ -554,10 +536,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BE"
       },
       "area": {
-        "value": 30494,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BE"
+        "value": 30278,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/belgium/"
       }
     },
     {
@@ -582,10 +563,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BZ"
       },
       "area": {
-        "value": 22810,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BZ"
+        "value": 22806,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/belize/"
       }
     },
     {
@@ -610,10 +590,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BJ"
       },
       "area": {
-        "value": 112760,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BJ"
+        "value": 110622,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/benin/"
       }
     },
     {
@@ -639,9 +618,8 @@
       },
       "area": {
         "value": 54,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BM"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bermuda/"
       }
     },
     {
@@ -666,10 +644,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BT"
       },
       "area": {
-        "value": 38140,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BT"
+        "value": 38394,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bhutan/"
       }
     },
     {
@@ -694,10 +671,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BO"
       },
       "area": {
-        "value": 1083300,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BO"
+        "value": 1083301,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bolivia/"
       }
     },
     {
@@ -722,10 +698,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BA"
       },
       "area": {
-        "value": 51200,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BA"
+        "value": 51187,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina/"
       }
     },
     {
@@ -751,9 +726,8 @@
       },
       "area": {
         "value": 566730,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BW"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/botswana/"
       }
     },
     {
@@ -779,9 +753,25 @@
       },
       "area": {
         "value": 8358140,
-        "year": 2023,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/brazil/"
+      }
+    },
+    {
+      "name": "British Virgin Islands",
+      "code": "VG",
+      "population": {
+        "value": 0,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BR"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VG"
+      },
+      "gdp": null,
+      "gdpPerCapita": null,
+      "area": {
+        "value": 151,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/british-virgin-islands/"
       }
     },
     {
@@ -806,10 +796,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BN"
       },
       "area": {
-        "value": 5270,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BN"
+        "value": 5265,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/brunei/"
       }
     },
     {
@@ -834,10 +823,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BG"
       },
       "area": {
-        "value": 108560,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BG"
+        "value": 108489,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/bulgaria/"
       }
     },
     {
@@ -862,10 +850,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BF"
       },
       "area": {
-        "value": 273600,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BF"
+        "value": 273800,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/burkina-faso/"
       }
     },
     {
@@ -891,9 +878,8 @@
       },
       "area": {
         "value": 25680,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=BI"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/burundi/"
       }
     },
     {
@@ -918,10 +904,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CV"
       },
       "area": {
-        "value": 4030,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CV"
+        "value": 4033,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cabo-verde/"
       }
     },
     {
@@ -946,10 +931,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KH"
       },
       "area": {
-        "value": 176520,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KH"
+        "value": 176515,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cambodia/"
       }
     },
     {
@@ -975,9 +959,8 @@
       },
       "area": {
         "value": 472710,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CM"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cameroon/"
       }
     },
     {
@@ -1002,10 +985,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CA"
       },
       "area": {
-        "value": 8788700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CA"
+        "value": 9093507,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/canada/"
       }
     },
     {
@@ -1030,10 +1012,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KY"
       },
       "area": {
-        "value": 240,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KY"
+        "value": 264,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cayman-islands/"
       }
     },
     {
@@ -1058,10 +1039,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CF"
       },
       "area": {
-        "value": 622980,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CF"
+        "value": 622984,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/none/"
       }
     },
     {
@@ -1087,37 +1067,8 @@
       },
       "area": {
         "value": 1259200,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TD"
-      }
-    },
-    {
-      "name": "Channel Islands",
-      "code": "JG",
-      "population": {
-        "value": 0.2,
-        "year": 2024,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JG"
-      },
-      "gdp": {
-        "value": 13,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=JG"
-      },
-      "gdpPerCapita": {
-        "value": 74586,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JG"
-      },
-      "area": {
-        "value": 198,
-        "year": 2021,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JG"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/chad/"
       }
     },
     {
@@ -1142,10 +1093,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CL"
       },
       "area": {
-        "value": 742832,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CL"
+        "value": 743812,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/chile/"
       }
     },
     {
@@ -1170,10 +1120,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CN"
       },
       "area": {
-        "value": 9388210,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CN"
+        "value": 9326410,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/china/"
       }
     },
     {
@@ -1198,10 +1147,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CO"
       },
       "area": {
-        "value": 1109500,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CO"
+        "value": 1038700,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/colombia/"
       }
     },
     {
@@ -1226,10 +1174,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KM"
       },
       "area": {
-        "value": 1861,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KM"
+        "value": 2235,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/comoros/"
       }
     },
     {
@@ -1254,10 +1201,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CD"
       },
       "area": {
-        "value": 2267050,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CD"
+        "value": 2267048,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/drc/"
       }
     },
     {
@@ -1283,9 +1229,8 @@
       },
       "area": {
         "value": 341500,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CG"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/congo-brazzaville/"
       }
     },
     {
@@ -1311,9 +1256,8 @@
       },
       "area": {
         "value": 51060,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CR"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/costa-rica/"
       }
     },
     {
@@ -1338,10 +1282,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CI"
       },
       "area": {
-        "value": 318000,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CI"
+        "value": 318003,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cocircte-divoire/"
       }
     },
     {
@@ -1366,10 +1309,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HR"
       },
       "area": {
-        "value": 55960,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HR"
+        "value": 55974,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/croatia/"
       }
     },
     {
@@ -1394,10 +1336,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CU"
       },
       "area": {
-        "value": 103800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CU"
+        "value": 109820,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cuba/"
       }
     },
     {
@@ -1423,9 +1364,8 @@
       },
       "area": {
         "value": 444,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CW"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/curacao/"
       }
     },
     {
@@ -1450,10 +1390,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CY"
       },
       "area": {
-        "value": 9240,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CY"
+        "value": 9241,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/cyprus/"
       }
     },
     {
@@ -1478,10 +1417,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CZ"
       },
       "area": {
-        "value": 77167,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CZ"
+        "value": 77247,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/czechia/"
       }
     },
     {
@@ -1506,10 +1444,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DK"
       },
       "area": {
-        "value": 40000,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DK"
+        "value": 42434,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/denmark/"
       }
     },
     {
@@ -1535,9 +1472,8 @@
       },
       "area": {
         "value": 23180,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DJ"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/djibouti/"
       }
     },
     {
@@ -1562,10 +1498,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DM"
       },
       "area": {
-        "value": 750,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DM"
+        "value": 751,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/dominica/"
       }
     },
     {
@@ -1590,10 +1525,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DO"
       },
       "area": {
-        "value": 48198,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DO"
+        "value": 48320,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/the-dominican/"
       }
     },
     {
@@ -1618,10 +1552,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EC"
       },
       "area": {
-        "value": 248360,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EC"
+        "value": 276841,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/ecuador/"
       }
     },
     {
@@ -1647,9 +1580,8 @@
       },
       "area": {
         "value": 995450,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EG"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/egypt/"
       }
     },
     {
@@ -1674,10 +1606,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SV"
       },
       "area": {
-        "value": 20720,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SV"
+        "value": 20721,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/el-salvador/"
       }
     },
     {
@@ -1702,10 +1633,26 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GQ"
       },
       "area": {
-        "value": 28050,
-        "year": 2023,
+        "value": 28051,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/"
+      }
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "population": {
+        "value": 3.5,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GQ"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER"
+      },
+      "gdp": null,
+      "gdpPerCapita": null,
+      "area": {
+        "value": 101000,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/eritrea/"
       }
     },
     {
@@ -1730,10 +1677,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EE"
       },
       "area": {
-        "value": 42730,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=EE"
+        "value": 42388,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/estonia/"
       }
     },
     {
@@ -1758,10 +1704,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SZ"
       },
       "area": {
-        "value": 17200,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SZ"
+        "value": 17204,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/eswatini/"
       }
     },
     {
@@ -1786,10 +1731,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ET"
       },
       "area": {
-        "value": 1128499,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ET"
+        "value": 1096570,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/ethiopia/"
       }
     },
     {
@@ -1814,10 +1758,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FO"
       },
       "area": {
-        "value": 1370,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FO"
+        "value": 1393,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/faroe-islands/"
       }
     },
     {
@@ -1842,10 +1785,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FJ"
       },
       "area": {
-        "value": 18270,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FJ"
+        "value": 18274,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/fiji/"
       }
     },
     {
@@ -1870,10 +1812,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FI"
       },
       "area": {
-        "value": 303960,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FI"
+        "value": 303815,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/finland/"
       }
     },
     {
@@ -1898,10 +1839,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FR"
       },
       "area": {
-        "value": 538950,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FR"
+        "value": 640427,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/france/"
       }
     },
     {
@@ -1926,10 +1866,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PF"
       },
       "area": {
-        "value": 3471,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PF"
+        "value": 3827,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/french-polynesia/"
       }
     },
     {
@@ -1954,10 +1893,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GA"
       },
       "area": {
-        "value": 257670,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GA"
+        "value": 257667,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/gabon/"
       }
     },
     {
@@ -1983,9 +1921,8 @@
       },
       "area": {
         "value": 10120,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GM"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/the-gambia/"
       }
     },
     {
@@ -2010,10 +1947,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GE"
       },
       "area": {
-        "value": 69490,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GE"
+        "value": 69700,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/georgia/"
       }
     },
     {
@@ -2038,10 +1974,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=DE"
       },
       "area": {
-        "value": 349430,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=DE"
+        "value": 348672,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/germany/"
       }
     },
     {
@@ -2067,9 +2002,25 @@
       },
       "area": {
         "value": 227533,
-        "year": 2023,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/ghana/"
+      }
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "population": {
+        "value": 0,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GH"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GI"
+      },
+      "gdp": null,
+      "gdpPerCapita": null,
+      "area": {
+        "value": 7,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/gibraltar/"
       }
     },
     {
@@ -2094,10 +2045,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GR"
       },
       "area": {
-        "value": 128900,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GR"
+        "value": 130647,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/greece/"
       }
     },
     {
@@ -2122,10 +2072,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GL"
       },
       "area": {
-        "value": 410450,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GL"
+        "value": 2166086,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/greenland/"
       }
     },
     {
@@ -2150,10 +2099,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GD"
       },
       "area": {
-        "value": 340,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GD"
+        "value": 344,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/grenada/"
       }
     },
     {
@@ -2178,10 +2126,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GU"
       },
       "area": {
-        "value": 540,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GU"
+        "value": 544,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/guam/"
       }
     },
     {
@@ -2206,10 +2153,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GT"
       },
       "area": {
-        "value": 107160,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GT"
+        "value": 107159,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/guatemala/"
       }
     },
     {
@@ -2234,10 +2180,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GN"
       },
       "area": {
-        "value": 245720,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GN"
+        "value": 245717,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/guinea/"
       }
     },
     {
@@ -2263,9 +2208,8 @@
       },
       "area": {
         "value": 28120,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GW"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/guinea-bissau/"
       }
     },
     {
@@ -2290,10 +2234,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GY"
       },
       "area": {
-        "value": 211140,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GY"
+        "value": 196849,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/guyana/"
       }
     },
     {
@@ -2319,9 +2262,8 @@
       },
       "area": {
         "value": 27560,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HT"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/haiti/"
       }
     },
     {
@@ -2347,9 +2289,8 @@
       },
       "area": {
         "value": 111890,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HN"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/honduras/"
       }
     },
     {
@@ -2374,10 +2315,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HK"
       },
       "area": {
-        "value": 1050,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HK"
+        "value": 1073,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/hong-kong/"
       }
     },
     {
@@ -2402,10 +2342,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HU"
       },
       "area": {
-        "value": 91260,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=HU"
+        "value": 89608,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/hungary/"
       }
     },
     {
@@ -2430,10 +2369,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IS"
       },
       "area": {
-        "value": 100830,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IS"
+        "value": 100250,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/iceland/"
       }
     },
     {
@@ -2458,10 +2396,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IN"
       },
       "area": {
-        "value": 2973190,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IN"
+        "value": 2973193,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/india/"
       }
     },
     {
@@ -2486,10 +2423,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ID"
       },
       "area": {
-        "value": 1892555,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ID"
+        "value": 1811569,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/indonesia/"
       }
     },
     {
@@ -2514,10 +2450,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IR"
       },
       "area": {
-        "value": 1622500,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IR"
+        "value": 1531595,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/iran/"
       }
     },
     {
@@ -2542,10 +2477,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IQ"
       },
       "area": {
-        "value": 434130,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IQ"
+        "value": 437367,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/iraq/"
       }
     },
     {
@@ -2570,10 +2504,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IE"
       },
       "area": {
-        "value": 68890,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IE"
+        "value": 68883,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/ireland/"
       }
     },
     {
@@ -2598,10 +2531,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IM"
       },
       "area": {
-        "value": 570,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IM"
+        "value": 572,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/isle-of-man/"
       }
     },
     {
@@ -2626,10 +2558,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IL"
       },
       "area": {
-        "value": 21640,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IL"
+        "value": 21497,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/israel/"
       }
     },
     {
@@ -2654,10 +2585,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=IT"
       },
       "area": {
-        "value": 295720,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=IT"
+        "value": 294140,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/italy/"
       }
     },
     {
@@ -2682,10 +2612,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JM"
       },
       "area": {
-        "value": 10830,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JM"
+        "value": 10831,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/jamaica/"
       }
     },
     {
@@ -2710,10 +2639,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JP"
       },
       "area": {
-        "value": 364569,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JP"
+        "value": 364485,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/japan/"
       }
     },
     {
@@ -2738,10 +2666,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=JO"
       },
       "area": {
-        "value": 88794,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=JO"
+        "value": 88802,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/jordan/"
       }
     },
     {
@@ -2767,9 +2694,8 @@
       },
       "area": {
         "value": 2699700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KZ"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kazakhstan/"
       }
     },
     {
@@ -2794,10 +2720,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KE"
       },
       "area": {
-        "value": 580876,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KE"
+        "value": 569140,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kenya/"
       }
     },
     {
@@ -2822,10 +2747,26 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KI"
       },
       "area": {
-        "value": 810,
-        "year": 2023,
+        "value": 811,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kiribati/"
+      }
+    },
+    {
+      "name": "Korea, Dem. People's Rep.",
+      "code": "KP",
+      "population": {
+        "value": 26.5,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KI"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KP"
+      },
+      "gdp": null,
+      "gdpPerCapita": null,
+      "area": {
+        "value": 120408,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/north-korea/"
       }
     },
     {
@@ -2850,10 +2791,36 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KR"
       },
       "area": {
-        "value": 97600,
-        "year": 2023,
+        "value": 96920,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/south-korea/"
+      }
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "population": {
+        "value": 1.6,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KR"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=XK"
+      },
+      "gdp": {
+        "value": 11,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=XK"
+      },
+      "gdpPerCapita": {
+        "value": 7023,
+        "year": 2024,
+        "source": "World Bank",
+        "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=XK"
+      },
+      "area": {
+        "value": 10887,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kosovo/"
       }
     },
     {
@@ -2878,10 +2845,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KW"
       },
       "area": {
-        "value": 17820,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KW"
+        "value": 17818,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kuwait/"
       }
     },
     {
@@ -2906,10 +2872,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KG"
       },
       "area": {
-        "value": 191800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KG"
+        "value": 191801,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/kyrgyzstan/"
       }
     },
     {
@@ -2935,9 +2900,8 @@
       },
       "area": {
         "value": 230800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LA"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/laos/"
       }
     },
     {
@@ -2962,10 +2926,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LV"
       },
       "area": {
-        "value": 62230,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LV"
+        "value": 62249,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/latvia/"
       }
     },
     {
@@ -2991,9 +2954,8 @@
       },
       "area": {
         "value": 10230,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LB"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/lebanon/"
       }
     },
     {
@@ -3018,10 +2980,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LS"
       },
       "area": {
-        "value": 30360,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LS"
+        "value": 30355,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/lesotho/"
       }
     },
     {
@@ -3047,9 +3008,8 @@
       },
       "area": {
         "value": 96320,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LR"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/liberia/"
       }
     },
     {
@@ -3075,9 +3035,8 @@
       },
       "area": {
         "value": 1759540,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LY"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/libya/"
       }
     },
     {
@@ -3103,9 +3062,8 @@
       },
       "area": {
         "value": 160,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LI"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/liechtenstein/"
       }
     },
     {
@@ -3130,10 +3088,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LT"
       },
       "area": {
-        "value": 62600,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LT"
+        "value": 62680,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/lithuania/"
       }
     },
     {
@@ -3158,10 +3115,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LU"
       },
       "area": {
-        "value": 2574,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LU"
+        "value": 2586,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/luxembourg/"
       }
     },
     {
@@ -3186,10 +3142,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MO"
       },
       "area": {
-        "value": 33,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MO"
+        "value": 28,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/macau/"
       }
     },
     {
@@ -3214,10 +3169,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MG"
       },
       "area": {
-        "value": 581800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MG"
+        "value": 581540,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/madagascar/"
       }
     },
     {
@@ -3242,10 +3196,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MW"
       },
       "area": {
-        "value": 94280,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MW"
+        "value": 94080,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/malawi/"
       }
     },
     {
@@ -3270,10 +3223,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MY"
       },
       "area": {
-        "value": 328550,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MY"
+        "value": 328657,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/malaysia/"
       }
     },
     {
@@ -3299,9 +3251,8 @@
       },
       "area": {
         "value": 298,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MV"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/maldives/"
       }
     },
     {
@@ -3327,9 +3278,8 @@
       },
       "area": {
         "value": 1220190,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ML"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mali/"
       }
     },
     {
@@ -3354,10 +3304,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MT"
       },
       "area": {
-        "value": 320,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MT"
+        "value": 316,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/malta/"
       }
     },
     {
@@ -3382,10 +3331,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MH"
       },
       "area": {
-        "value": 180,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MH"
+        "value": 181,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/marshall-islands/"
       }
     },
     {
@@ -3411,9 +3359,8 @@
       },
       "area": {
         "value": 1030700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MR"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mauritania/"
       }
     },
     {
@@ -3438,10 +3385,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MU"
       },
       "area": {
-        "value": 1997,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MU"
+        "value": 2030,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mauritius/"
       }
     },
     {
@@ -3466,10 +3412,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MX"
       },
       "area": {
-        "value": 1943950,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MX"
+        "value": 1943945,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mexico/"
       }
     },
     {
@@ -3494,10 +3439,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=FM"
       },
       "area": {
-        "value": 700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=FM"
+        "value": 702,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/none/"
       }
     },
     {
@@ -3522,10 +3466,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MD"
       },
       "area": {
-        "value": 32930,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MD"
+        "value": 32891,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/moldova/"
       }
     },
     {
@@ -3551,9 +3494,8 @@
       },
       "area": {
         "value": 2,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MC"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/monaco/"
       }
     },
     {
@@ -3578,10 +3520,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MN"
       },
       "area": {
-        "value": 1558500,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MN"
+        "value": 1553556,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mongolia/"
       }
     },
     {
@@ -3606,10 +3547,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ME"
       },
       "area": {
-        "value": 13450,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ME"
+        "value": 13452,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/montenegro/"
       }
     },
     {
@@ -3634,10 +3574,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MA"
       },
       "area": {
-        "value": 446300,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MA"
+        "value": 716300,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/morocco/"
       }
     },
     {
@@ -3663,9 +3602,8 @@
       },
       "area": {
         "value": 786380,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MZ"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/mozambique/"
       }
     },
     {
@@ -3690,10 +3628,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MM"
       },
       "area": {
-        "value": 652670,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MM"
+        "value": 653508,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/burma/"
       }
     },
     {
@@ -3719,9 +3656,8 @@
       },
       "area": {
         "value": 823290,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NA"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/namibia/"
       }
     },
     {
@@ -3746,10 +3682,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NR"
       },
       "area": {
-        "value": 20,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NR"
+        "value": 21,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/nauru/"
       }
     },
     {
@@ -3774,10 +3709,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NP"
       },
       "area": {
-        "value": 143350,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NP"
+        "value": 143351,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/nepal/"
       }
     },
     {
@@ -3802,10 +3736,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NL"
       },
       "area": {
-        "value": 33670,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NL"
+        "value": 33893,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/netherlands/"
       }
     },
     {
@@ -3830,10 +3763,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NC"
       },
       "area": {
-        "value": 18280,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NC"
+        "value": 18275,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/new-caledonia/"
       }
     },
     {
@@ -3858,10 +3790,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NZ"
       },
       "area": {
-        "value": 263310,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NZ"
+        "value": 264537,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/new-zealand/"
       }
     },
     {
@@ -3886,10 +3817,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NI"
       },
       "area": {
-        "value": 120340,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NI"
+        "value": 119990,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/nicaragua/"
       }
     },
     {
@@ -3915,9 +3845,8 @@
       },
       "area": {
         "value": 1266700,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NE"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/niger/"
       }
     },
     {
@@ -3942,10 +3871,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NG"
       },
       "area": {
-        "value": 910770,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NG"
+        "value": 910768,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/nigeria/"
       }
     },
     {
@@ -3970,10 +3898,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MK"
       },
       "area": {
-        "value": 25220,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MK"
+        "value": 25433,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/north-macedonia/"
       }
     },
     {
@@ -3998,10 +3925,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MP"
       },
       "area": {
-        "value": 460,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MP"
+        "value": 464,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/northern-mariana-islands/"
       }
     },
     {
@@ -4026,10 +3952,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NO"
       },
       "area": {
-        "value": 364270,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=NO"
+        "value": 304282,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/norway/"
       }
     },
     {
@@ -4055,9 +3980,8 @@
       },
       "area": {
         "value": 309500,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=OM"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/oman/"
       }
     },
     {
@@ -4082,10 +4006,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PK"
       },
       "area": {
-        "value": 770880,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PK"
+        "value": 770875,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/pakistan/"
       }
     },
     {
@@ -4110,10 +4033,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PW"
       },
       "area": {
-        "value": 460,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PW"
+        "value": 459,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/palau/"
       }
     },
     {
@@ -4138,10 +4060,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PA"
       },
       "area": {
-        "value": 74180,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PA"
+        "value": 74340,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/panama/"
       }
     },
     {
@@ -4167,9 +4088,8 @@
       },
       "area": {
         "value": 452860,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PG"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/"
       }
     },
     {
@@ -4194,10 +4114,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PY"
       },
       "area": {
-        "value": 396012,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PY"
+        "value": 397302,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/paraguay/"
       }
     },
     {
@@ -4222,10 +4141,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PE"
       },
       "area": {
-        "value": 1280000,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PE"
+        "value": 1279996,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/peru/"
       }
     },
     {
@@ -4251,9 +4169,8 @@
       },
       "area": {
         "value": 298170,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PH"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/philippines/"
       }
     },
     {
@@ -4278,10 +4195,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PL"
       },
       "area": {
-        "value": 306270,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PL"
+        "value": 304255,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/poland/"
       }
     },
     {
@@ -4306,10 +4222,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PT"
       },
       "area": {
-        "value": 91606,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PT"
+        "value": 91470,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/portugal/"
       }
     },
     {
@@ -4334,10 +4249,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PR"
       },
       "area": {
-        "value": 8870,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PR"
+        "value": 8959,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/puerto-rico/"
       }
     },
     {
@@ -4362,10 +4276,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=QA"
       },
       "area": {
-        "value": 11490,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=QA"
+        "value": 11586,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/qatar/"
       }
     },
     {
@@ -4390,10 +4303,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RO"
       },
       "area": {
-        "value": 230080,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RO"
+        "value": 229891,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/romania/"
       }
     },
     {
@@ -4418,10 +4330,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RU"
       },
       "area": {
-        "value": 16376870,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RU"
+        "value": 16377742,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/russia/"
       }
     },
     {
@@ -4446,10 +4357,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RW"
       },
       "area": {
-        "value": 24670,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RW"
+        "value": 24668,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/rwanda/"
       }
     },
     {
@@ -4474,10 +4384,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=WS"
       },
       "area": {
-        "value": 2780,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=WS"
+        "value": 2821,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/samoa/"
       }
     },
     {
@@ -4502,10 +4411,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SM"
       },
       "area": {
-        "value": 60,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SM"
+        "value": 61,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/san-marino/"
       }
     },
     {
@@ -4530,10 +4438,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ST"
       },
       "area": {
-        "value": 960,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ST"
+        "value": 964,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sao-tome-and-principe/"
       }
     },
     {
@@ -4559,9 +4466,8 @@
       },
       "area": {
         "value": 2149690,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SA"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/saudi-arabia/"
       }
     },
     {
@@ -4587,9 +4493,8 @@
       },
       "area": {
         "value": 192530,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SN"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/senegal/"
       }
     },
     {
@@ -4614,10 +4519,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=RS"
       },
       "area": {
-        "value": 84090,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=RS"
+        "value": 77474,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/serbia/"
       }
     },
     {
@@ -4642,10 +4546,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SC"
       },
       "area": {
-        "value": 460,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SC"
+        "value": 455,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/seychelles/"
       }
     },
     {
@@ -4670,10 +4573,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SL"
       },
       "area": {
-        "value": 72180,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SL"
+        "value": 71620,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sierra-leone/"
       }
     },
     {
@@ -4698,10 +4600,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SG"
       },
       "area": {
-        "value": 718,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SG"
+        "value": 709,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/singapore/"
       }
     },
     {
@@ -4727,9 +4628,8 @@
       },
       "area": {
         "value": 34,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SX"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sint-maarten/"
       }
     },
     {
@@ -4754,10 +4654,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SK"
       },
       "area": {
-        "value": 48080,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SK"
+        "value": 48105,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/slovakia/"
       }
     },
     {
@@ -4782,10 +4681,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SI"
       },
       "area": {
-        "value": 20135,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SI"
+        "value": 20151,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/slovenia/"
       }
     },
     {
@@ -4810,10 +4708,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SB"
       },
       "area": {
-        "value": 27990,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SB"
+        "value": 27986,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/solomon-islands/"
       }
     },
     {
@@ -4838,10 +4735,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SO"
       },
       "area": {
-        "value": 627340,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SO"
+        "value": 627337,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/somalia/"
       }
     },
     {
@@ -4866,10 +4762,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZA"
       },
       "area": {
-        "value": 1213090,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZA"
+        "value": 1214470,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/south-africa/"
       }
     },
     {
@@ -4894,10 +4789,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ES"
       },
       "area": {
-        "value": 499697,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ES"
+        "value": 498980,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/spain/"
       }
     },
     {
@@ -4922,10 +4816,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LK"
       },
       "area": {
-        "value": 61860,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LK"
+        "value": 64630,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sri-lanka/"
       }
     },
     {
@@ -4950,10 +4843,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KN"
       },
       "area": {
-        "value": 260,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=KN"
+        "value": 261,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/saint-kitts-and-nevis/"
       }
     },
     {
@@ -4978,10 +4870,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=LC"
       },
       "area": {
-        "value": 610,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=LC"
+        "value": 606,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/saint-lucia/"
       }
     },
     {
@@ -5007,9 +4898,8 @@
       },
       "area": {
         "value": 50,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=MF"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/saint-martin/"
       }
     },
     {
@@ -5034,10 +4924,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VC"
       },
       "area": {
-        "value": 390,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VC"
+        "value": 389,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/saint-vincent-and-the-grenadines/"
       }
     },
     {
@@ -5062,10 +4951,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SD"
       },
       "area": {
-        "value": 1868000,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SD"
+        "value": 1731671,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sudan/"
       }
     },
     {
@@ -5090,10 +4978,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SR"
       },
       "area": {
-        "value": 160508,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SR"
+        "value": 156000,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/suriname/"
       }
     },
     {
@@ -5118,10 +5005,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SE"
       },
       "area": {
-        "value": 407270,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SE"
+        "value": 410335,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/sweden/"
       }
     },
     {
@@ -5146,10 +5032,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=CH"
       },
       "area": {
-        "value": 39510,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=CH"
+        "value": 39997,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/switzerland/"
       }
     },
     {
@@ -5174,10 +5059,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=SY"
       },
       "area": {
-        "value": 183630,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=SY"
+        "value": 185887,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/syria/"
       }
     },
     {
@@ -5202,10 +5086,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TJ"
       },
       "area": {
-        "value": 138790,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TJ"
+        "value": 141510,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/tajikistan/"
       }
     },
     {
@@ -5231,9 +5114,8 @@
       },
       "area": {
         "value": 885800,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TZ"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/tanzania/"
       }
     },
     {
@@ -5259,9 +5141,8 @@
       },
       "area": {
         "value": 510890,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TH"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/thailand/"
       }
     },
     {
@@ -5286,10 +5167,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TL"
       },
       "area": {
-        "value": 14870,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TL"
+        "value": 14874,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/timor-leste/"
       }
     },
     {
@@ -5314,10 +5194,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TG"
       },
       "area": {
-        "value": 54390,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TG"
+        "value": 54385,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/togo/"
       }
     },
     {
@@ -5342,10 +5221,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TO"
       },
       "area": {
-        "value": 720,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TO"
+        "value": 717,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/tonga/"
       }
     },
     {
@@ -5370,10 +5248,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TT"
       },
       "area": {
-        "value": 5130,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TT"
+        "value": 5128,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/trinidad-and-tobago/"
       }
     },
     {
@@ -5399,9 +5276,8 @@
       },
       "area": {
         "value": 155360,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TN"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/tunisia/"
       }
     },
     {
@@ -5426,10 +5302,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TR"
       },
       "area": {
-        "value": 769630,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TR"
+        "value": 769632,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/turkey/"
       }
     },
     {
@@ -5455,9 +5330,8 @@
       },
       "area": {
         "value": 469930,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TM"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/turkmenistan/"
       }
     },
     {
@@ -5482,10 +5356,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TC"
       },
       "area": {
-        "value": 950,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TC"
+        "value": 948,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands/"
       }
     },
     {
@@ -5510,10 +5383,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=TV"
       },
       "area": {
-        "value": 30,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=TV"
+        "value": 26,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/tuvalu/"
       }
     },
     {
@@ -5538,10 +5410,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UG"
       },
       "area": {
-        "value": 200520,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UG"
+        "value": 197100,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/uganda/"
       }
     },
     {
@@ -5566,10 +5437,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UA"
       },
       "area": {
-        "value": 579400,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UA"
+        "value": 579330,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/ukraine/"
       }
     },
     {
@@ -5594,10 +5464,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AE"
       },
       "area": {
-        "value": 71020,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=AE"
+        "value": 83600,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/none/"
       }
     },
     {
@@ -5623,9 +5492,8 @@
       },
       "area": {
         "value": 241930,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=GB"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/united-kingdom/"
       }
     },
     {
@@ -5650,10 +5518,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=US"
       },
       "area": {
-        "value": 9147420,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=US"
+        "value": 9147593,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/united-states/"
       }
     },
     {
@@ -5678,10 +5545,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UY"
       },
       "area": {
-        "value": 175020,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UY"
+        "value": 175015,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/uruguay/"
       }
     },
     {
@@ -5706,10 +5572,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=UZ"
       },
       "area": {
-        "value": 440650,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=UZ"
+        "value": 425400,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/uzbekistan/"
       }
     },
     {
@@ -5734,10 +5599,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VU"
       },
       "area": {
-        "value": 12190,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VU"
+        "value": 12189,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/vanuatu/"
       }
     },
     {
@@ -5763,9 +5627,8 @@
       },
       "area": {
         "value": 882050,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VE"
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/venezuela/"
       }
     },
     {
@@ -5790,10 +5653,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VN"
       },
       "area": {
-        "value": 313429,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VN"
+        "value": 310070,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/vietnam/"
       }
     },
     {
@@ -5818,10 +5680,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=VI"
       },
       "area": {
-        "value": 350,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=VI"
+        "value": 346,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/virgin-islands/"
       }
     },
     {
@@ -5846,10 +5707,26 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=PS"
       },
       "area": {
-        "value": 6025,
-        "year": 2023,
+        "value": 5640,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/west-bank/"
+      }
+    },
+    {
+      "name": "Yemen, Rep.",
+      "code": "YE",
+      "population": {
+        "value": 40.6,
+        "year": 2024,
         "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=PS"
+        "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=YE"
+      },
+      "gdp": null,
+      "gdpPerCapita": null,
+      "area": {
+        "value": 527968,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/yemen/"
       }
     },
     {
@@ -5874,10 +5751,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZM"
       },
       "area": {
-        "value": 743390,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZM"
+        "value": 743398,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/zambia/"
       }
     },
     {
@@ -5902,10 +5778,9 @@
         "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=ZW"
       },
       "area": {
-        "value": 386850,
-        "year": 2023,
-        "source": "World Bank",
-        "url": "https://data.worldbank.org/indicator/AG.LND.TOTL.K2?locations=ZW"
+        "value": 386847,
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/countries/zimbabwe/"
       }
     }
   ]

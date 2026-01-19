@@ -21,10 +21,28 @@ function formatRatio(value: number, california: number): string {
   }
 }
 
-function formatMetricLink(metric: MetricWithSource, formatted: string, title?: string): string {
+function formatMetricLink(metric: MetricWithSource | null, formatted: string, title?: string): string {
+  if (!metric) {
+    return `<span class="no-data">no data</span>`;
+  }
   const yearStr = metric.year ? ` (${metric.year})` : "";
   const titleAttr = title || `Source: ${metric.source}${yearStr}`;
   return `<a href="${metric.url}" target="_blank" rel="noopener" class="metric-link" title="${titleAttr}">${formatted}</a>`;
+}
+
+function formatGdpCell(gdp: MetricWithSource | null): string {
+  if (!gdp) return formatMetricLink(null, "");
+  return formatMetricLink(gdp, `$${formatNumber(gdp.value)}B`);
+}
+
+function formatGdpPerCapitaCell(gdpPc: MetricWithSource | null): string {
+  if (!gdpPc) return formatMetricLink(null, "");
+  return formatMetricLink(gdpPc, `$${formatNumber(gdpPc.value, 0)}`);
+}
+
+function formatGdpRatio(countryGdp: MetricWithSource | null, caGdp: MetricWithSource): string {
+  if (!countryGdp) return `<span class="no-data">—</span>`;
+  return `<span class="ratio">${formatRatio(countryGdp.value, caGdp.value)}</span>`;
 }
 
 const baseStyles = `
@@ -105,6 +123,10 @@ const baseStyles = `
     text-transform: uppercase;
     letter-spacing: 0.05em;
   }
+  .no-data {
+    color: #999;
+    font-style: italic;
+  }
 `;
 
 // California flag from Wikimedia (public domain)
@@ -181,15 +203,15 @@ export function renderComparison(country: CountryData, siteMode: SiteMode): stri
       </tr>
       <tr>
         <td>GDP</td>
-        <td>${formatMetricLink(country.gdp, `$${formatNumber(country.gdp.value)}B`)}</td>
-        <td>${formatMetricLink(ca.gdp, `$${formatNumber(ca.gdp.value)}B`)}</td>
-        <td class="ratio">${formatRatio(country.gdp.value, ca.gdp.value)}</td>
+        <td>${formatGdpCell(country.gdp)}</td>
+        <td>${formatGdpCell(ca.gdp)}</td>
+        <td>${formatGdpRatio(country.gdp, ca.gdp!)}</td>
       </tr>
       <tr>
         <td>GDP per Capita</td>
-        <td>${formatMetricLink(country.gdpPerCapita, `$${formatNumber(country.gdpPerCapita.value, 0)}`)}</td>
-        <td>${formatMetricLink(ca.gdpPerCapita, `$${formatNumber(ca.gdpPerCapita.value, 0)}`)}</td>
-        <td class="ratio">${formatRatio(country.gdpPerCapita.value, ca.gdpPerCapita.value)}</td>
+        <td>${formatGdpPerCapitaCell(country.gdpPerCapita)}</td>
+        <td>${formatGdpPerCapitaCell(ca.gdpPerCapita)}</td>
+        <td>${formatGdpRatio(country.gdpPerCapita, ca.gdpPerCapita!)}</td>
       </tr>
       <tr>
         <td>Land Area</td>
